@@ -1,4 +1,4 @@
-### Updated: 16-10-2019
+#### Updated: 16-10-2019
 
 UAB Superbiuras ("We" or "Snackbox") are committed to protecting and respecting your privacy. This Privacy Notice (together with our Privacy Policy and Terms of Use and any other documents referred to on it, which can be found at www.snackbox.lt) sets out the basis on which any personal data we collect from you, or that you provide to us through the Snackbox Service, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By using the Snackbox Service you are accepting and consenting to the practices described in this Privacy Notice.
 
