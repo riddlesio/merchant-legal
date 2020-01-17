@@ -58,10 +58,13 @@ You may not use the Service if you are a (a) person who is not of legal age to f
 
 *3.5*  Infringing Content. It is our policy to respond to notices of alleged copyright infringement. For notice of copyright infringement we can be reached at:
 
-Legal affairs  
-UAB Superbiuras  
-+370 610 43103  
-Email: info@snackbox.lt  
+Legal affairs
+
+UAB Superbiuras
+
++370 610 43103
+
+Email: info@snackbox.lt
 
 ## 4. Snackbox’s Proprietary Rights
 
