@@ -1,6 +1,6 @@
 ## Address
 
-Snackbox
+UAB DAILY LUNCH
 
 P. Lukšio g. 1
 
@@ -8,18 +8,18 @@ P. Lukšio g. 1
 
 ## Contact
 
-Telephone (orders): [+370 676 08309](tel:+37067608309)
+Telephone (orders): [+370 601 01099](tel:+37060101099)
 
 Telephone (other): [+370 610 43103](tel:+37061043103)
 
-Email: [info@snackbox.lt](mailto:info@snackbox.lt)
+Email: [info@dailylunch.lt](mailto:info@dailylunch.lt)
 
-Website: [snackbox.lt](https://snackbox.lt)
+Website: [www.dailylunch.lt](https://dailylunch.lt)
 
 ## Legal
 
-Legal name: UAB Superbiuras
+Legal name: UAB Daily Lunch
 
-Company registration code: 304245683
+Company registration code: 305348946
 
-VAT ID: LT100010288115
+VAT ID: LT100012838612
