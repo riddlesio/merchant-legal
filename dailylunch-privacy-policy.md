@@ -1,10 +1,10 @@
-#### Updated: 12-12-2019
+#### Updated: 20-01-2020
 
-UAB DAILY LUNCH ("We" or "DAILY LUNCH") are committed to protecting and respecting your privacy. This Privacy Notice sets out the basis on which any personal data we collect from you, or that you provide to us through the DAILY LUNCH Service, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By using the DAILY LUNCH Service you acknowledge and agree with the practices described in this Privacy Notice.
+UAB DAILY LUNCH ("We" or "DAILY LUNCH") is committed to protecting and respecting your privacy. This privacy policy sets out the basis on which we process any personal data we collect from you or that you provide to us. Please read this privacy policy carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-The DAILY LUNCH Service ("Service") consists of making available the Fridge App ("App") and access to the Fridge, which is a commercial fridge, containing (fresh) food, drinks, snacks and other products ("Products") supplied by us. By means of a technical solution the App and the Fridge record and process orders for Products purchased by you from us. In relation to the Products, we refer to the applicable Terms and Conditions and Privacy Policy, which can be found at www.dailylunch.lt ("Website").
+## Who are we?
 
-UAB DAILY LUNCH acts as the data controller in processing your personal data. That means we determine the purposes for and the means by which personal data is processed.
+DAILY LUNCH is running a pilot with commercial fridges containing fresh and healthy food, drinks, snacks and other products supplied by us. The technological solutions used in the fridges make it possible for us to record and process which products you purchase from us. This makes it easier for us to stock the fridges properly and to know our consumers’ needs. Payments occur through our mobile app or through a contactless payment terminal that is built onto the fridge. For more information about DAILY LUNCH and our products, visit our website [www.dailylunch.lt](https://dailylunch.lt).
 
 Our contact details:
 
@@ -12,61 +12,93 @@ UAB DAILY LUNCH
 
 P. Lukšio g. 1
 
-08221 Vilnius
-
-Lithuania
+08221 Vilnius, Lithuania
 
 Phone: +370 610 43103
 
 Email address: info@dailylunch.lt
 
-If you have any questions about this Privacy Notice, the data we process, or if you would like to exercise one of your data protection rights, do not hesitate to contact us.
+DAILY LUNCH acts as the data controller in processing your personal data. That means we determine the purposes for and the means by which your personal data is processed. If you have any questions about this Privacy Notice, the data we process, or if you would like to exercise one of your data protection rights, do not hesitate to contact us.
 
-## Personal data we collect from you
+## What kind of personal data we collect from you and for what purposes?
+ 
+*Data we process when you use our mobile app*
 
-To use the Service you may need to have an User’s Account (“Account”) and download of the App on your device. We collect the following information through your use of and interactions with the Service:
+Some of our fridges should be operated with a mobile app, that can be downloaded from the Apple App Store or Google Play Store. When you use the app for the first time, you are asked to create a user account and provide payment details. The app contains a QR scanner that can be used to unlock the fridge. Payments occur automatically after you have taken products from the fridge. The app shows your purchases and receipts.
 
-- Account information: we collect information associated with your Account used, such as your name, email address, telephone number and language preference.
-- DAILY LUNCH Fridge Information: we collect information you exchange with the Fridge through your interactions with the Service, including your input, order records and information that you receive as a result of interacting with the Service (e.g. responses, answers and content, including text, pictures and video’s). Payment information will be collected, stored and processed by a third party payment service provider.
-- Device and App usage Information: we collect information through automated means about your use of the Service, and this may include device models, OS versions, device configurations and settings, IP addresses, and device identifiers and other unique identifiers. In addition, we may obtain information about how, when and for how long you use the Service.
+Through the fridge and app, we may collect and process the following information:
 
-## How we use your personal data
+- First and last name
+- Email address
+- Language preference
+- Information about your device, including device models, OS versions, configurations and settings, IP addresses, device identifiers and other unique identifiers
+- Which fridge(s) you have been using
+- The products you have purchased from the fridge(s)
+- Payment details, such as bank card or credit card number*
 
-The information we obtain is used through the Service to:
+We use this information to:
 
-- To identify and authenticate you so you can use the Service.
-- To enable interactions with the DAILY LUNCH Fridge.
-- To improve customer experience.
-- To communicate about our products and services.
-- To provide you with notifications, content, alerts, offers, promotions etc. relating to our Products
-- To perform order management and inventory management.
-- To increase the performance of the Fridge, App and Website.
-- To provide software-updates, maintenance services and support.
-- To comply with the law and legal processes.
-- To protect the rights, property, or safety of DAILY LUNCH, business partners, service providers or customers.
+- Identify and authenticate you
+- Enable interaction with the fridge(s)
+- Provide software updates
+- Offer maintenance services and customer support
+- Provide (personalized) notifications, alerts, offers and promotions through the app
+- Perform order management and inventory management.
+- Send you receipts by email, if desired
 
-To purchase Products from us it is required to provide us with personal data for processing as described above. If you do not provide us with personal data, we will not be able to provide you all of the features available through the Service. Processing of your personal data is necessary for the performance of the contract between you and DAILY LUNCH. Besides, we have a legitimate interest in processing personal data to improve customer experience and increase the performance of the Service.
+In other words: we need your information to be able to offer you our services. Besides, we use your information to be able to increase the performance of the fridge and the app and to improve customer experience. We have a legitimate interest to do so.
+
+*Please note: we do not have access to your payment details. These are processed by our payment service provider, that acts as a data processor. Our payment service provider has no access to other information we collect about you. Your payment details are only processed after you have given consent.
+
+*Data we process through fridges with a payment terminal*
+
+Some of our fridges work with a built-in contactless payment terminal. You may open the fridge after the terminal has read your bank card or credit card. Only after you have taken out the desired products, your bank card or credit card will be charged. We collect information about the products you have purchased.
+
+Your payment data are processed by our payment service provider. We have no access to your payment data. We receive a user-ID from our payment service provider, that we can link to the purchases you have made and the fridge you have been using, but not to you as an individual. We use the information about your purchases and the fridge to perform order management and inventory management and to improve customer experience.
+
+*Data we process when you contact us*
+
+When you contact us, we process your name, email address, telephone number (when you call us) and other information you provide to us. We use this information to communicate with you, to be able to respond to your questions or requests and to provide support.
+
+*Data we process through social media*
+
+We use social media accounts to promote our business and interact with our customers. When you choose to comment or post content on our social media accounts, we can see your name and profile picture. Also, you might provide personal information in your comment or post. You are not required to provide personal information on social media, so this is your own responsibility. We will not process personal data you provide through social media any further.
 
 ## How long do we store your personal data?
 
-Your personal data will not be stored longer than is necessary for the purpose for which it was collected. This means that information will be destroyed or erased from our systems when it is no longer required.
+We will not store your personal data any longer than is necessary for the purposes for which is was collected. This means that information will be destroyed or erased from our systems when it is no longer required. We will pseudonymize the information we store as much as possible.
+
+Some information will be stored for a certain period of time because of legal obligations imposed on us. For example, the Tax Authorities require us to store receipts, sales and inventory administration and other information for a legally determined number of years.
+
+If you make use of our app, the personal information you provide is stored indefinitely until you delete your account.
+
+Information you provide in public posts and comments on our social media accounts will be stored indefinitely, unless we delete our social media accounts, or you choose to remove your posts and reactions. You can also contact us if you want us to remove certain information.
 
 ## Data processing by third parties
 
-The use of the Service will involve the transfer, storage, and processing of your personal information within and outside of your country of residence. Your personal information will be transferred to our systems in Lithuania and our technical service supplier in the Netherlands. DAILY LUNCH and its technical service supplier may use servers to receive and process part of the information as indicated above. These servers are located within the European Union.
+We make use of third parties to be able to run our business and offer you our services. Those third parties may process your personal data, but only to the extent necessary. The following third parties act as data processors and only process data on our behalf:
 
-Besides, within our business, we will disclose your information to third parties whose services are required to provide the Service to you. We disclose your information only to the extent necessary to provide our Service. These third parties include:
+- Our technical service supplier has developed our app and back office and stores information collected through the fridges and the app on their servers, which are located in The Netherlands.
+- Our payment service provider enables us to accept online payments through the app and payments through the contactless payment terminals.
+- We work together with companies that provide services such as administration, billing, sending emails on our behalf, customer contact centers, advertisements and website and email hosting.
+- Affiliate companies which we control or own.
 
-- Affiliates: Other DAILY LUNCH companies which we control or own.
-- Business Partners: Partners who we work together with to provide the Service to you as requested. We for example work together with food suppliers of the Products and operators of the Fridges, which require information for order management and inventory management. We also work together with a payment service provider to facilitate secure payments, telecommunications company for data transmission and with technical suppliers supporting the DAILY LUNCH Service. It may be required that our business partners control and manage some of your personal information.
-- Service providers: Selected companies that provide services for or on behalf of us, such as companies that assist with repairs, customer contact centers, advertisement, billing or that send emails on our behalf. These providers are also committed to protecting your data.
-- Other Parties: We may disclose your Personal Information to other Parties only where we are required to do so by the courts or to comply with other legal, statutory and / or regulatory obligations; to prevent and / or detect crime: and for credit reference purposes.
+We may also share information with the following third parties:
 
-If and insofar third parties qualify as data processors under the GDPR, we have data processing agreements in place.
+- Food suppliers, to offer you fresh food from our fridges.
+- Companies that can repair our fridges when they are broken or do not function properly.p
+
+These parties act as data controllers. Their main businesses do not concern the processing of personal data, but they might need some personal data to be able to carry out their services. We limit the disclosure of personal data to those parties as much as possible. We may share analytical data with our food suppliers, but we will not share anything that can be related to individuals with them. If you notify us of a defect in one of our fridges by email or telephone, we may occasionally share your contact details with repair and service companies. We will ask for your consent before we do so. Normally, we do not share personal information with such companies.
+
+We may also disclose personal information to third parties when we are required to do so by the courts or to comply with other legal, statutory or regulatory obligations.
+
+## Data transfer outside the European Economic Area
+
+We try to limit data transfer outside the EEA as much as possible. Some of the third parties mentioned above may transfer or store your data in countries outside the EEA. We make sure these third parties have appropriate safeguards in place.
 
 ## Protection of your personal data
 
-We maintain appropriate administrative, technical and physical safeguards designed to protect personal information we obtain through the Service against accidental, unlawful or unauthorized destruction, interference, loss, alteration, access, disclosure or use. DAILY LUNCH also maintains reasonable procedures to help ensure that such data is reliable for its intended use and is accurate, complete and current.
+To keep your personal data safe and secure, we have implemented administrative, technical and physical security measures appropriate to the size and nature of our business. For example, we protect our devices with passwords and other security measures, keep our websites, devices and operating systems up to date, use firewalls against viruses, cyberattacks and unauthorized access and our website uses a SSL certificate for secure online communications. Also, the third parties that process data on our behalf all take your privacy very seriously. We have closed data processing agreements with them to ensure that your personal data is protected properly.
 
 ## Your rights
 
@@ -80,14 +112,14 @@ As a data subject, the GDPR provides you with certain rights concerning your per
 - The right to object to processing of your personal data;
 - The right to data portability.
 
-If you want to exercise one of your rights, please contact us at info@snackbox.lt. We will get back to you within 1 month from the receipt of your request. Please note that when you have an Account, you can also access and rectify your personal data from there.
+If you want to exercise one of your rights, please contact us at info@healthfoodwall.com. We will get back to you within 1 month from the receipt of your request. When you use our mobile app, you can also access and rectify some of your personal data from there.
 
-If there is a dispute, we prefer to resolve it mutually. If we are unable to find a solution together, you can submit a complaint to the Lithuanian data protection authority (the SDPI).
+If there is a dispute, we prefer to resolve it mutually. If we are unable to find a solution together, you can submit a complaint to the Lithuanian data protection authority.
 
-## Third party websites
+## Third-party websites
 
-This Privacy Notice does not apply to third party websites that are connected to our Service through hyperlinks. We cannot guarantee you that those third party websites process your personal data in a safe or responsible way. If you land on a third party website by clicking on a hyperlink on our website, we recommend that you read the privacy statement of the third party website to be informed on how they process your personal data.
+Our website or mobile app may contain hyperlinks to third-party websites. Our privacy policy does not apply to any of those third-party websites. Therefore, we cannot guarantee that those third-party websites process your personal data in a safe or responsible way. If you land on a third-party website by clicking on a hyperlink, we recommend that you read the privacy policy of this third-party website to be informed on how they process your personal data.
 
 ## Updates to this Privacy Notice
 
-This Privacy Notice may be updated periodically to reflect changes in our personal information practices with respect to the Service, or changes in the applicable law. We will post a notice in the App to notify you in advance of material changes to our Privacy Notice and indicate at the top of the notice when it was most recently updated.
+The services we offer might change from time to time. Laws and regulations may change as well. Therefore, we may update this privacy policy periodically without prior notice to you. We will publish the revised privacy policy on our website and/or in our app. We recommend that you check our privacy policy regularly to stay informed of changes that may affect you. If the way we process your personal data changes significantly, we may communicate these changes directly to you through the app, messages on the fridge or per email.
