@@ -112,7 +112,7 @@ As a data subject, the GDPR provides you with certain rights concerning your per
 - The right to object to processing of your personal data;
 - The right to data portability.
 
-If you want to exercise one of your rights, please contact us at info@healthfoodwall.com. We will get back to you within 1 month from the receipt of your request. When you use our mobile app, you can also access and rectify some of your personal data from there.
+If you want to exercise one of your rights, please contact us at info@dailylunch.lt. We will get back to you within 1 month from the receipt of your request. When you use our mobile app, you can also access and rectify some of your personal data from there.
 
 If there is a dispute, we prefer to resolve it mutually. If we are unable to find a solution together, you can submit a complaint to the Lithuanian data protection authority.
 
