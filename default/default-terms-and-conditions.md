@@ -1,7 +1,5 @@
 #### Last updated: 20 January 2020
 
--- PLACEHOLDER (EXAMPLE TERMS AND CONDITIONS ONLY)
-
 IMPORTANT: We, COMPANY, are running a pilot project with commercial fridges ("Fridges") containing fresh and healthy food, drinks, snacks and other products supplied by us ("Products"). The technological solutions used in the Fridges make it possible for us to record and process which Products you purchase from us. This makes it easier for us to stock the Fridges properly and to know our consumers’ needs. Payments occur through our COMPANY Fridges App ("App"), a mobile app that you have to install on a mobile device, or through a payment terminal ("Payment Terminal") that is built onto the Fridges. These Terms and Conditions apply on all your interactions with the Fridges and your use of the App and/or Payment Terminal.
 
 By using one of our Fridges, whether they work with the mobile app or a payment terminal, you acknowledge and agree that you are participating in a pilot project and that the Fridges and/or the App may not work properly yet. Please read these Terms and Conditions carefully before you use our Fridges and/or the App. Article 1 provides more detailed information about this pilot project.

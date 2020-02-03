@@ -1,7 +1,5 @@
 #### Updated: 31-01-2020
 
--- PLACEHOLDER (EXAMPLE PRIVACY POLICY ONLY)
-
 COMPANY ("We" or "COMPANY") is committed to protecting and respecting your privacy. This privacy policy sets out the basis on which we process any personal data we collect from you or that you provide to us. Please read this privacy policy carefully to understand our views and practices regarding your personal data and how we will treat it.
 
 ## Who are we?

@@ -1,5 +1,3 @@
--- PLACEHOLDER
-
 Visit [www.intelligentfridges.com](https://intelligentfridges.com) for more information on the HUSKY INTELLIGENT FRIDGE.
 
 The Intelligent Fridges work like traditional vending machines, but make it possible to supply fresh foods e.g. fruit, salads, dairy products and give a more home-like experience to the consumers.
