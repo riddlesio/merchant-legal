@@ -1,12 +1,12 @@
 #### Last updated: 20 January 2020
 
-IMPORTANT: We, Health Food Wall, are running a pilot project with commercial fridges ("Fridges") containing fresh and healthy food, drinks, snacks and other products supplied by us ("Products"). The technological solutions used in the Fridges make it possible for us to record and process which Products you purchase from us. This makes it easier for us to stock the Fridges properly and to know our consumers’ needs. Payments occur through our Health Food Wall Fridges App ("App"), a mobile app that you have to install on a mobile device, or through a payment terminal ("Payment Terminal") that is built onto the Fridges. These Terms and Conditions apply on all your interactions with the Fridges and your use of the App and/or Payment Terminal.
+IMPORTANT: We, DAILY LUNCH, are running a pilot project with commercial fridges ("Fridges") containing fresh and healthy food, drinks, snacks and other products supplied by us ("Products"). The technological solutions used in the Fridges make it possible for us to record and process which Products you purchase from us. This makes it easier for us to stock the Fridges properly and to know our consumers’ needs. Payments occur through our DAILY LUNCH Fridges App ("App"), a mobile app that you have to install on a mobile device, or through a payment terminal ("Payment Terminal") that is built onto the Fridges. These Terms and Conditions apply on all your interactions with the Fridges and your use of the App and/or Payment Terminal.
 
 By using one of our Fridges, whether they work with the mobile app or a payment terminal, you acknowledge and agree that you are participating in a pilot project and that the Fridges and/or the App may not work properly yet. Please read these Terms and Conditions carefully before you use our Fridges and/or the App. Article 1 provides more detailed information about this pilot project.
 
-For more information about us and our products, visit our website [www.healthfoodwall.com](https://healthfoodwall.com).
+For more information about us and our products, visit our website [www.dailylunch.lt](https://dailylunch.lt).
 
-## 1. Participating in the Health Food Wall pilot project
+## 1. Participating in the DAILY LUNCH pilot project
 
 *1.1*  You acknowledge and agree that you are participating in our pilot project. That means that you make use of prototypes of the Fridges, some of which may contain built-in Payment Terminals, and/or the App (“Prototypes”). The Prototypes are not released for commercial sale yet. The Prototypes may not operate properly, be in final form or fully functional. Also, the Prototypes may contain errors, design flaws or other problems. Use of the Prototypes may result in unexpected results, damage or loss. The Prototypes are not certified yet by any certification authority.
 
@@ -14,7 +14,7 @@ For more information about us and our products, visit our website [www.healthfoo
 
 *1.3*  You acknowledge and agree that using the Prototypes is at your own risk. If you do not accept the risks associated with the use of the Prototypes, please do not use them. Always follow the instructions given in the app, on the Fridges, or provided through online or paper manuals.
 
-*1.4*  If you discover errors, design flaws, unexpected results, damage, loss or any other problem related to your use of the Prototypes, please report them to us via info@healthfoodwall.com. That way, we can improve the Prototypes and the services we deliver to you.
+*1.4*  If you discover errors, design flaws, unexpected results, damage, loss or any other problem related to your use of the Prototypes, please report them to us via info@dailylunch.lt. That way, we can improve the Prototypes and the services we deliver to you.
 
 ## 2. Applicability of these Terms and Conditions
 
@@ -30,7 +30,7 @@ For more information about us and our products, visit our website [www.healthfoo
 
 *3.3*  Errors and mistakes in the prices of our Products, for example when incorrect prices are shown in the App, on the display of the Fridges or on our website, do not bind us.
 
-*3.4*  If you have given your consent for processing payment details in the App or make use of a Payment Terminal, you authorize Health Food Wall to charge your bank account, credit card or any account relating to any other payment method.
+*3.4*  If you have given your consent for processing payment details in the App or make use of a Payment Terminal, you authorize DAILY LUNCH to charge your bank account, credit card or any account relating to any other payment method.
 
 *3.5*  Your payment method may be preauthorized before making the actual purchase. If your payment method is declined, the Fridge may not open. We are not responsible if your payment method is declined for any reason. 
 
@@ -42,11 +42,11 @@ For more information about us and our products, visit our website [www.healthfoo
 
 *4.1*  We deliver our Products immediately at purchase through our Fridges. Our Products are meant to be consumed immediately. After you have taken Products from the Fridge, you cannot return the Products or cancel your purchase. We do not offer any refunds if you are, for whatever reason, not satisfied with the Products you have purchased.
 
-*4.2*  We prepare our Products with the utmost care for quality and food safety. If you, however, happen to have purchased any Products that are not up to our high standards and something is off, please contact us at info@healthfoodwall.com as soon as possible and we will look for a suitable solution. If possible, please take pictures of the Products, so we can learn what went wrong.
+*4.2*  We prepare our Products with the utmost care for quality and food safety. If you, however, happen to have purchased any Products that are not up to our high standards and something is off, please contact us at info@dailylunch.lt as soon as possible and we will look for a suitable solution. If possible, please take pictures of the Products, so we can learn what went wrong.
 
-*4.3*  If you are accidentally charged for Products that you have not purchased, please contact us at info@healthfoodwall.com as soon as possible and we will look for a suitable solution.
+*4.3*  If you are accidentally charged for Products that you have not purchased, please contact us at info@dailylunch.lt as soon as possible and we will look for a suitable solution.
 
-## 5. Using the Health Food Wall App
+## 5. Using the DAILY LUNCH App
 
 *5.1*  Some of our Fridges should be operated with the App. By using the App, you can open the Fridge and take out the Products you desire. After you have closed the Fridge, the App will show your purchases and receipts. The App may also show other information, such as prices or the ingredients of our Products. You can download the App from the Google Play Store or Apple App Store.
 
@@ -90,7 +90,7 @@ For more information about us and our products, visit our website [www.healthfoo
 
 *8.1*  We and/or our licensors retain the intellectual property rights, such as copyrights, trademarks, trade secrets, trade names, patents or other intellectual property rights on the Fridges, the App and all related Content and any other materials (except for the content mentioned in article 7.5). You are not allowed to copy or reproduce any of the materials protected by intellectual property rights, or make them available to third parties, without our prior written permission. We are allowed to claim compensation from you when you violate this provision.
 
-*8.2*  If you notice a copyright infringement, please contact us at info@healthfoodwall.com. It is our policy to respond to notices of alleged copyright infringement as soon as possible.
+*8.2*  If you notice a copyright infringement, please contact us at info@dailylunch.lt. It is our policy to respond to notices of alleged copyright infringement as soon as possible.
 
 *8.3*  The provisions of this article remain valid after termination of the Agreement between you and us.
 
@@ -138,6 +138,6 @@ For more information about us and our products, visit our website [www.healthfoo
 
 ## 13. Disputes and Governing Law
 
-*13.1*  These Terms and Conditions shall be governed by and interpreted in accordance with the laws of The Netherlands.
+*13.1*  These Terms and Conditions shall be governed by and interpreted in accordance with the laws of Lithuania.
 
-*13.2*  If any dispute arises out of, or in connection with, your use of the Fridges and/or the App, we will try to resolve this dispute mutually within a reasonable period of time. Otherwise, the dispute shall be settled by the competent Dutch court.
+*13.2*  If any dispute arises out of, or in connection with, your use of the Fridges and/or the App, we will try to resolve this dispute mutually within a reasonable period of time. Otherwise, the dispute shall be settled by the competent Lithuanian court.
