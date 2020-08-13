@@ -4,11 +4,11 @@ Ultra Convenience LDA está comprometida em proteger e respeitar sua privacidade
 
 ## Quem somos nós?
 
-Ultra Convenience LDA disponibiliza frigoríficos comerciais contendo alimentos diversos, bebidas, lanches e outros produtos fornecidos por nós ou por terceiros devidamente autorizados para tal. As soluções tecnológicas usadas nos frigoríficos nos permitem registar e processar quais produtos você compra de nós. Isso permite a interação perfeita do consumidor com nossos frigoríficos e facilita o estoque adequado dos mesmos e o conhecimento das necessidades de nossos consumidores. Os pagamentos ocorrem através do nosso aplicativo móvel ou através de um terminal de pagamento sem contacto que é embutido na frigorífico. Para mais informações sobre a Ultra Convenience LDA e nossos produtos, visite nosso site www.takeat351.com
+Ultra Convenience LDA disponibiliza frigoríficos comerciais contendo alimentos diversos, bebidas, lanches e outros produtos fornecidos por nós ou por terceiros devidamente autorizados para tal. As soluções tecnológicas usadas nos frigoríficos nos permitem registar e processar quais produtos você compra de nós. Isso permite a interação perfeita do consumidor com nossos frigoríficos e facilita o estoque adequado dos mesmos e o conhecimento das necessidades de nossos consumidores. Os pagamentos ocorrem através do nosso aplicativo móvel ou através de um terminal de pagamento sem contacto que é embutido na frigorífico. Para mais informações sobre a Ultra Convenience LDA e nossos produtos, visite nosso site www.ultraconvenience.eu
 
 Nossos detalhes de contacto:
 
-Endereço de e-mail: sac@takeat351.com
+Endereço de e-mail: sac@ultraconvenience.eu
 
 Ultra Convenience LDA atua como o controlador de dados no processamento de seus dados pessoais. Isso significa que determinamos os propósitos e os meios pelos quais seus dados pessoais são processados. Se você tiver alguma dúvida sobre este Aviso de Privacidade, os dados que processamos ou se desejar exercer um de seus direitos de proteção de dados, não hesite em nos contactar.
 
@@ -107,7 +107,7 @@ Como titular dos dados, o RGPD fornece a você certos direitos referentes aos se
 - O direito de se opor ao processamento de seus dados pessoais;
 - O direito à portabilidade de dados.
 
-Se você deseja exercer um de seus direitos, entre em contacto connosco em sac@takeat351.com 
+Se você deseja exercer um de seus direitos, entre em contacto connosco em sac@ultraconvenience.eu 
 
 Nós entraremos em contacto com você dentro de 1 mês após o recebimento da sua solicitação. Ao usar nosso aplicativo móvel, você também pode acessar e retificar alguns dos seus dados pessoais a partir daí.
 

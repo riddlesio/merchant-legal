@@ -4,7 +4,7 @@ IMPORTANTE: Nós, da Ultra Convenience Lda, estamos a executar um projecto pilot
 
 Ao usar um de nossos Frigoríficos, quer eles funcionem com o aplicativo móvel ou um terminal de pagamento, você reconhece e concorda que está a participar de um projecto piloto e que os Frigoríficos e / ou o Aplicativo podem ainda não funcionar corretamente. Por favor, leia estes Termos e Condições cuidadosamente antes de usar nossos Frigoríficos e / ou o Aplicativo. O Artigo 1 fornece informações mais detalhadas sobre este projecto piloto.
 
-Para mais informações sobre nós e nossos produtos, visite nosso site [www.takeat351.com](https://www.takeat351.com).
+Para mais informações sobre nós e nossos produtos, visite nosso site [www.ultraconvenience.eu](https://www.ultraconvenience.eu).
 
 ## 1. A participar do projecto piloto Ultra Convenience Lda
 
@@ -14,7 +14,7 @@ Para mais informações sobre nós e nossos produtos, visite nosso site [www.tak
 
 *1.3*  Você reconhece e concorda que o uso dos protótipos é por sua conta e risco. Se você não aceitar os riscos associados ao uso dos Protótipos, não os utilize. Siga sempre as instruções fornecidas no aplicativo, nos Frigoríficos ou fornecidas através de manuais online ou em papel.
 
-*1.4*   você descobrir erros, falhas de projecto, resultados inesperados, danos, perdas ou qualquer outro problema relacionado ao uso dos protótipos, informe-os através de sac@takeat351.com. Dessa forma, podemos melhorar os Protótipos e os serviços que fornecemos a você.
+*1.4*  Caso descubra erros, falhas de projecto, resultados inesperados, danos, perdas ou qualquer outro problema relacionado ao uso dos protótipos, informe-nos através de sac@ultraconvenience.eu. Dessa forma, podemos melhorar os Protótipos e os serviços que fornecemos a você.
 
 ## 2. Aplicabilidade destes Termos e Condições
 
@@ -42,9 +42,9 @@ Para mais informações sobre nós e nossos produtos, visite nosso site [www.tak
 
 *4.1*  Entregamos nossos produtos imediatamente na compra através de nossos frigoríficos. Nossos produtos devem ser consumidos de acordo com a data de validade indicada em cada um dos produtos. Depois de retirar os produtos da Frigorífico, você não poderá devolvê-los ou cancelar sua compra. Não oferecemos reembolso se, por qualquer motivo, não estiver satisfeito com os produtos que você comprou.
 
-*4.2*  Preparamos nossos produtos com o máximo cuidado para qualidade e segurança alimentar. Se, no entanto, você comprou quaisquer produtos que não atendem aos nossos altos padrões e algo está errado, entre em contacto connosco em sac@takeat351.com, o mais rápido possível e procuraremos uma solução adequada. Se possível, tire fotos dos Produtos, para que possamos perceber o que deu errado.
+*4.2*  Preparamos nossos produtos com o máximo cuidado para qualidade e segurança alimentar. Se, no entanto, você comprou quaisquer produtos que não atendem aos nossos altos padrões e algo está errado, entre em contacto connosco em sac@ultraconvenience.eu, o mais rápido possível e procuraremos uma solução adequada. Se possível, tire fotos dos Produtos, para que possamos perceber o que deu errado.
 
-*4.3*  Se você acidentalmente for cobrado por produtos que não comprou, entre em contacto connosco em sac@takeat351.com o mais rápido possível e procuraremos uma solução adequada.
+*4.3*  Se você acidentalmente for cobrado por produtos que não comprou, entre em contacto connosco em sac@ultraconvenience.eu o mais rápido possível e procuraremos uma solução adequada.
 
 ## 5. A usar o aplicativo
 
@@ -92,7 +92,7 @@ Para mais informações sobre nós e nossos produtos, visite nosso site [www.tak
 
 *8.1*  Nós e / ou nossos licenciadores mantemos os direitos de propriedade intelectual, como direitos autorais, marcas comerciais, segredos comerciais, nomes comerciais, patentes ou outros direitos de propriedade intelectual nos Frigoríficos, no Aplicativo e em todo o Conteúdo relacionado e em qualquer outro material (exceto o conteúdo mencionado no artigo 7.5). Você não tem permissão para copiar ou reproduzir nenhum dos materiais protegidos por direitos de propriedade intelectual ou disponibilizá-los a terceiros, sem nossa permissão prévia por escrito. Estamos autorizados a reivindicar uma compensação sua quando você violar esta disposição.
        
-*8.2*  Se você observar uma violação de direitos autorais, entre em contacto connosco em sac@takeat351.com. É nossa política responder a avisos de suposta violação de direitos autorais o mais rápido possível.
+*8.2*  Se você observar uma violação de direitos autorais, entre em contacto connosco em sac@ultraconvenience.eu. É nossa política responder a avisos de suposta violação de direitos autorais o mais rápido possível.
        
 *8.3*  As disposições deste artigo permanecem válidas após a rescisão do Contrato entre você e nós.
        
