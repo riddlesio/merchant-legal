@@ -1,4 +1,4 @@
-## Address
+## Morada
 
 ULTRA CONVENIENCE, LDA
 
@@ -10,13 +10,13 @@ Bloco A - 9B
 
 Lisboa, Portugal
 
-## Contact
+## Contacto
 
 Telephone: [+351 912 822 617](tel:+351912822617)
 
-Email: [sac@takeat351.com](mailto:sac@takeat351.com)
+Email: [sac@ultraconvenience.eu](mailto:sac@ultraconvenience.eu)
 
-Website: [www.takeat351.com](https://www.takeat351.com)
+Website: [www.ultraconvenience.eu](https://ultraconvenience.eu)
 
 ## Legal
 
