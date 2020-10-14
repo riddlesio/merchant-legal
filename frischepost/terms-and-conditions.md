@@ -1,143 +1,143 @@
-#### Last updated: 18 May 2020
+#### Zuletzt geändert: 11-02-2020
 
-IMPORTANT: We, Frischepost, are running a pilot project with commercial fridges ("Fridges") containing fresh and healthy food, drinks, snacks and other products supplied by us ("Products"). The technological solutions used in the Fridges make it possible for us to record and process which Products you purchase from us. This makes it easier for us to stock the Fridges properly and to know our consumers’ needs. Payments occur through our Frischepost Fridges App ("App"), a mobile app that you have to install on a mobile device, or through a payment terminal ("Payment Terminal") that is built onto the Fridges. These Terms and Conditions apply on all your interactions with the Fridges and your use of the App and/or Payment Terminal.
+WICHTIG: Wir, Frischepost, führen ein Pilotprojekt mit kommerziellen Kühlschränken ("Fridges" oder „Kühlschränke“) durch, die frische und gesunde Lebensmittel, Getränke, Snacks und andere von uns gelieferte Produkte ("Produkte") enthalten. Die in den Kühlschränken verwendeten technologischen Lösungen ermöglichen es uns, zu erfassen und zu verarbeiten, welche Produkte Sie bei uns kaufen. Dies erleichtert es uns, die Kühlschränke richtig zu bestücken und die Bedürfnisse unserer Kunden zu kennen. Die Zahlungen erfolgen über unsere Frischepost-Fridges App ("App"), eine mobile App, die Sie auf einem mobilen Gerät installieren müssen, oder über ein Zahlungsterminal ("Zahlungsterminal"), das auf dem Kühlschrank aufgebaut ist. Diese Allgemeinen Geschäftsbedingungen gelten für alle Ihre Interaktionen mit den Kühlschränken und Ihre Nutzung der App und/oder des Zahlungsterminals Durch die Nutzung einer unserer Kühlschränke, unabhängig davon, ob diese mit der mobilen App oder einem Zahlungsterminal funktionieren, bestätigen Sie und erklären sich damit einverstanden, dass Sie an einem Pilotprojekt teilnehmen und dass die Kühlschränke und/oder die App möglicherweise noch nicht richtig funktionieren. Bitte lesen Sie diese Allgemeinen Geschäftsbedingungen sorgfältig durch, bevor Sie unsere Kühlschränke und/oder die App verwenden. Artikel 1 enthält ausführlichere Informationen über dieses Pilotprojekt.
 
-By using one of our Fridges, whether they work with the mobile app or a payment terminal, you acknowledge and agree that you are participating in a pilot project and that the Fridges and/or the App may not work properly yet. Please read these Terms and Conditions carefully before you use our Fridges and/or the App. Article 1 provides more detailed information about this pilot project.
+Für weitere Informationen über uns und unsere Produkte besuchen Sie bitte unsere Website [www.frischepost.de](https://frischepost.de).
 
-For more information about us and our products, visit our website [www.frischepost.de](https://frischepost.de).
+## 1. Teilnahme am Frischepost Pilotprojekt
 
-## 1. Participating in the Frischepost pilot project
+*1.1*  Sie bestätigen und stimmen zu, dass Sie an unserem Pilotprojekt teilnehmen. Das bedeutet, dass Sie die Prototypen der Kühlschränke, von denen einige eingebaute Zahlungsterminals enthalten können, und/oder die App ("Prototypen") nutzen. Die Prototypen sind noch nicht für den kommerziellen Verkauf freigegeben. Es kann sein, dass die Prototypen nicht richtig funktionieren, nicht in der endgültigen Form oder nicht voll funktionsfähig sind. Außerdem können die Prototypen Fehler, Designfehler oder andere Probleme enthalten. Die Verwendung der Prototypen kann zu unerwarteten Ergebnissen, Schäden oder Verlusten führen. Die Prototypen sind noch nicht von einer Zertifizierungsbehörde zertifiziert.
 
-*1.1*  You acknowledge and agree that you are participating in our pilot project. That means that you make use of prototypes of the Fridges, some of which may contain built-in Payment Terminals, and/or the App (“Prototypes”). The Prototypes are not released for commercial sale yet. The Prototypes may not operate properly, be in final form or fully functional. Also, the Prototypes may contain errors, design flaws or other problems. Use of the Prototypes may result in unexpected results, damage or loss. The Prototypes are not certified yet by any certification authority.
+*1.2*  Jedes Mal, wenn der Kühlschrank, das Zahlungsterminal und/oder die App in diesen Allgemeinen Geschäftsbedingungen erwähnt werden, müssen diese als Prototypen des Kühlschranks, des Zahlungsterminals und/oder der App verstanden werden.
 
-*1.2*  Every time the Fridge, Payment Terminal and/or App are mentioned in these Terms and Conditions, it must be understood as Prototype versions of the Fridge, Payment Terminal and/or App.
+*1.3*  Sie erkennen an und stimmen zu, dass die Verwendung der Prototypen auf Ihr eigenes Risiko erfolgt. Wenn Sie die mit der Verwendung der Prototypen verbundenen Risiken nicht akzeptieren, verwenden Sie diese bitte nicht. Befolgen Sie stets die Anweisungen, die in der App, auf den Kühlschränken oder in Online- oder Papierhandbüchern gegeben werden.
 
-*1.3*  You acknowledge and agree that using the Prototypes is at your own risk. If you do not accept the risks associated with the use of the Prototypes, please do not use them. Always follow the instructions given in the app, on the Fridges, or provided through online or paper manuals.
+*1.4*  Wenn Sie Fehler, Designfehler, unerwartete Ergebnisse, Schäden, Verlust oder andere Probleme im Zusammenhang mit der Benutzung der Prototypen entdecken, melden Sie uns diese bitte über moin@hamburg.frischepost.de. Auf diese Weise können wir die Prototypen und die Dienstleistungen, die wir Ihnen anbieten, verbessern.
 
-*1.4*  If you discover errors, design flaws, unexpected results, damage, loss or any other problem related to your use of the Prototypes, please report them to us via moin@hamburg.frischepost.de. That way, we can improve the Prototypes and the services we deliver to you.
+## 2. Anwendbarkeit der Allgemeinen Geschäftsbedingungen
 
-## 2. Applicability of these Terms and Conditions
+*2.1*  Diese Allgemeinen Geschäftsbedingungen gelten für alle Käufe, die Sie über unsere Kühlschränke tätigen, unabhängig davon, ob Sie über die App oder über ein Zahlungsterminal bezahlen. 
 
-*2.1*  These Terms and Conditions apply to all purchases you make through our Fridges, whether you pay through the App or through a Payment Terminal.
+*2.2*  Diese Allgemeinen Geschäftsbedingungen gelten auch, wenn Sie die App auf Ihr mobiles Gerät herunterladen und installieren, unabhängig davon, ob Sie Produkte über unsere Kühlschränke kaufen oder nicht. Sie werden aufgefordert, diese Allgemeinen Geschäftsbedingungen zu akzeptieren, bevor Sie ein Benutzerkonto ("Konto") erstellen. Diese Allgemeinen Geschäftsbedingungen gelten für Ihre Nutzung der App, bis Sie sich entscheiden, Ihre Nutzung der App zu beenden.
 
-*2.2*  These Terms and Conditions also apply when you download and install the App on your mobile device, whether you purchase Products from our Fridges or not. You will be asked to accept these Terms and Conditions before you create a user account ("Account"). These Terms and Conditions apply to your use of the App, until you decide to cancel your use of the App.
+## 3. Preise und Bezahlung
 
-## 3. Prices and payment
+*3.1*  Wie bei jeder Erfahrung im Einzelhandel ist es Ihnen nicht gestattet, Produkte aus unseren Kühlschränken zu nehmen, ohne dafür zu bezahlen. Die Bezahlung erfolgt unmittelbar nach dem Kauf. Wir bieten verschiedene elektronische Zahlungsmethoden an, wie z.B. Kreditkarte, Belastung Ihres Bankkontos oder andere (lokale) Zahlungsmethoden, um den Kauf von Produkten aus den Kühlschränken zu erleichtern. Wir behalten uns das Recht vor, Zahlungsmethoden ohne vorherige Mitteilung an Sie hinzuzufügen oder zu entfernen.
 
-*3.1*  As with any retail experience, you are not allowed to take Products from our Fridges without paying for them. Payment occurs immediately upon purchase. We offer various electronic payment methods, such as credit card, charging your bank account or other (local) payment methods, to facilitate the purchase of Products from the Fridges. We reserve the right to add or remove payment methods without previous notice to you.
+*3.2*  Preise und Währung, die für Produkte berechnet werden, können je nach Ihrem Standort variieren und sich von Zeit zu Zeit ändern. Die Preise unserer Produkte enthalten die geltende Umsatzsteuer.
 
-*3.2*  Prices and currency charged for Products may vary depending on your location and may change from time to time. The prices of our Products include applicable sales tax.
+*3.3*  Fehler und Irrtümer bei den Preisen unserer Produkte, z.B. wenn falsche Preise in der App, auf der Anzeige der Kühlschränke oder auf unserer Website angezeigt werden, sind für uns nicht bindend.
 
-*3.3*  Errors and mistakes in the prices of our Products, for example when incorrect prices are shown in the App, on the display of the Fridges or on our website, do not bind us.
+*3.4*  Wenn Sie Ihre Zustimmung zur Verarbeitung von Zahlungsdaten in der App gegeben haben oder ein Zahlungsterminal verwenden, ermächtigen Sie Frischepost, Ihr Bankkonto, Ihre Kreditkarte oder ein Konto im Zusammenhang mit einer anderen Zahlungsmethode zu belasten.
 
-*3.4*  If you have given your consent for processing payment details in the App or make use of a Payment Terminal, you authorize Frischepost to charge your bank account, credit card or any account relating to any other payment method.
+*3.5*  Ihre Zahlungsmethode kann vor dem eigentlichen Kauf vorab autorisiert werden. Wenn Ihre Zahlungsmethode abgelehnt wird, kann der Kühlschrank möglicherweise nicht geöffnet werden. Wir sind nicht verantwortlich, wenn Ihre Zahlungsmethode aus irgendeinem Grund abgelehnt wird.
 
-*3.5*  Your payment method may be preauthorized before making the actual purchase. If your payment method is declined, the Fridge may not open. We are not responsible if your payment method is declined for any reason. 
+*3.6*  Wir nehmen einen Zahlungsdienstleister in Anspruch und speichern keine Ihrer Zahlungsdetails und haben auch keinen Zugriff darauf. Sie erkennen an und stimmen zu, dass unser Zahlungsdienst seinen eigenen Geschäftsbedingungen unterliegt.
 
-*3.6*  We make use of a payment service provider and do not store or have access to any of your payment details. You acknowledge and agree that our payment service is governed by its own terms and conditions.
+*3.7*  Wir sind nicht verantwortlich oder haftbar für Schäden, wenn Ihre Zahlung aus irgendeinem Grund abgelehnt wird.
 
-*3.7*  We are not responsible or liable for any damages if your payment is declined for any reason.
+## 4. Rückerstattung und Stornierung
 
-## 4. Refund and Cancellation Policy
+*4.1*  Wir liefern unsere Produkte sofort beim Kauf über unsere Kühlschränke. Unsere Produkte sind für den sofortigen Verzehr bestimmt. Nachdem Sie die Produkte aus dem Kühlschrank genommen haben, können Sie die Produkte nicht mehr zurückgeben oder Ihren Kauf stornieren. Wir bieten keine Rückerstattung an, wenn Sie, aus welchen Gründen auch immer, mit den von Ihnen gekauften Produkten nicht zufrieden sind.
 
-*4.1*  We deliver our Products immediately at purchase through our Fridges. Our Products are meant to be consumed immediately. After you have taken Products from the Fridge, you cannot return the Products or cancel your purchase. We do not offer any refunds if you are, for whatever reason, not satisfied with the Products you have purchased.
+*4.2*  Wir bereiten unsere Produkte mit größter Sorgfalt auf Qualität und Lebensmittelsicherheit vor. Wenn Sie jedoch zufällig Produkte gekauft haben, die nicht unseren hohen Standards entsprechen, und etwas nicht in Ordnung ist, kontaktieren Sie uns bitte so schnell wie möglich unter moin@hamburg.frischepost.de und wir werden nach einer geeigneten Lösung suchen. Wenn möglich, machen Sie bitte Fotos von den Produkten, damit wir erfahren können, was schief gelaufen ist.
 
-*4.2*  We prepare our Products with the utmost care for quality and food safety. If you, however, happen to have purchased any Products that are not up to our high standards and something is off, please contact us at moin@hamburg.frischepost.de as soon as possible and we will look for a suitable solution. If possible, please take pictures of the Products, so we can learn what went wrong.
+*4.3*  Falls Ihnen versehentlich Produkte in Rechnung gestellt werden, die Sie nicht gekauft haben, kontaktieren Sie uns bitte so schnell wie möglich unter moin@hamburg.frischepost.de, und wir werden nach einer geeigneten Lösung suchen.
 
-*4.3*  If you are accidentally charged for Products that you have not purchased, please contact us at moin@hamburg.frischepost.de as soon as possible and we will look for a suitable solution.
+## 5. Benutzung der Frischepost App
 
-## 5. Using the Frischepost App
+*5.1*  Einige unserer Kühlschränke sollten mit der App betrieben werden. Mit Hilfe der App können Sie den Kühlschrank öffnen und die gewünschten Produkte herausnehmen. Nachdem Sie den Kühlschrank geschlossen haben, zeigt die App Ihre Einkäufe und Quittungen an. Die App kann auch andere Informationen anzeigen, wie z.B. Preise oder die Inhaltsstoffe unserer Produkte. Sie können die App aus dem Google Play Store oder dem Apple App Store herunterladen.
 
-*5.1*  Some of our Fridges should be operated with the App. By using the App, you can open the Fridge and take out the Products you desire. After you have closed the Fridge, the App will show your purchases and receipts. The App may also show other information, such as prices or the ingredients of our Products. You can download the App from the Google Play Store or Apple App Store.
+*5.2*  Um die App herunterzuladen und zu installieren, benötigen Sie ein mobiles Gerät mit Zugang zum Internet, sei es über eine Wi-Fi-Verbindung oder ein Mobilfunknetz. Wir sind nicht für Gebühren verantwortlich, die Ihr Mobilfunk- oder Internetanbieter Ihnen möglicherweise auferlegt.
 
-*5.2*  To download and install the App, you need a mobile device with access to the internet, whether through a Wi-Fi connection or a mobile network. We are not responsible for any fees that your mobile network provider or internet service provider may impose on you.
+*5.3*  Ihnen wird eine nicht-exklusive, nicht übertragbare Lizenz zur Nutzung der App für den persönlichen Gebrauch gewährt.
 
-*5.3*  You are granted a non-exclusive, non-transferrable license to use the App for personal use.
+*5.4*  Die App funktioniert auf den neuesten Versionen von Android und Apple iOS. Die App kann auch mit älteren Versionen funktionieren, aber wir können hier keine Zusicherungen oder Garantien irgendwelcher Art geben. Sie sind allein dafür verantwortlich, Ihre Geräte auf dem neuesten Stand zu halten.
 
-*5.4*  The App works on the latest versions of Android and Apple iOS. The App may work with older versions as well, but we cannot make representations or warranties of any kind hereof. You are solely responsible for keeping your devices up to date.
+*5.5*  Um die App nutzen zu können, müssen Sie ein Benutzerkonto ("Account") einrichten. Sie werden gebeten, bestimmte Informationen anzugeben, darunter Ihren Namen, eine gültige E-Mail-Adresse und Ihre Sprachpräferenz. Lesen Sie unsere Datenschutzrichtlinie, um mehr darüber zu erfahren, wie wir Ihre persönlichen Daten verarbeiten. Sie sind allein verantwortlich für die Richtigkeit der Informationen, die Sie über die App und Ihr Konto bereitstellen.
 
-*5.5*  To use the App, you need to create a user account ("Account"). You are asked to provide certain information, including your name, a valid email address and language preference. Read our Privacy Policy to learn more about how we process your personal data. You are solely responsible for the accuracy of the information you provide through the App and your Account.
+*5.6*  Um Zahlungen über Ihr Konto zu ermöglichen, müssen Sie Ihre Zahlungsdetails angeben, wie z. B. ein Bankkonto, Ihre Kreditkartennummer oder Informationen zu anderen (lokalen) Zahlungsmethoden. Sie können Ihre Zahlungsinformationen jederzeit im Abschnitt Zahlungen in Ihrem Konto ändern. Es kann zu einer vorübergehenden Unterbrechung Ihres Zugriffs auf den Zahlungsdienst kommen, bis die Gültigkeit der neuen Zahlungsangaben überprüft wurde.
 
-*5.6*  To enable payments through your Account, you need to provide your payment details, such as a bank account, credit card number or information relating to other (local) payment methods. You may change your payment information at any time at the Payments section in your Account. There may be a temporary disruption of your access to the payment service until the validity of the new payment details is verified.
+*5.7*  Wir sind berechtigt, aber nicht verpflichtet, von Zeit zu Zeit Aktualisierungen für die App zu veröffentlichen. Diese Aktualisierungen können neue Funktionen, Fehlerbehebungen oder Sicherheitsaktualisierungen betreffen. Bitte überprüfen Sie die Einstellungen in Ihrem App Store, um festzustellen, ob Updates automatisch installiert werden oder manuell installiert werden sollten. Wir empfehlen, immer die neueste Version der App zu verwenden. Es kann sein, dass die Fridges mit älteren Versionen der App nicht richtig funktionieren; Sie sind allein für die Installation von Updates und die Verwendung der neuesten Version der App verantwortlich.
 
-*5.7*  We may, but are not obliged to, release updates for the App from time to time. These updates may concern new features, bug fixes or security updates. Please check the settings in your app store to see whether updates are installed automatically or should be installed manually. We recommend to always use the latest version of the App. The Fridges may not work properly with older versions of the App; you are solely responsible for installing updates and using the latest version of the App.
+*5.8*  Die App ist möglicherweise nicht in allen Ländern oder in allen Sprachen verfügbar und unterliegt möglicherweise Beschränkungen, die von Ihrem Netzbetreiber, Internet-Provider oder der lokalen Gesetzgebung auferlegt werden.
 
-*5.8*  The App may not be available in all countries or in all languages, and may be subject to restrictions imposed by your network carrier, internet provider or local legislation.
+*5.9*  Die App kann Links zu Websites oder Diensten Dritter enthalten, einschließlich, aber nicht beschränkt auf unseren Zahlungsdienstanbieter. Die Websites oder Dienste von Drittanbietern unterliegen deren eigenen Geschäftsbedingungen und Datenschutzrichtlinien. Die Nutzung solcher Websites oder Dienste Dritter erfolgt auf Ihr eigenes Risiko. Wir sind weder für Inhalte verantwortlich, die solche Websites oder Dienste Dritter veröffentlichen, noch sind wir haftbar für Schäden, die aus der Nutzung solcher Websites oder Dienste Dritter entstehen können.
 
-*5.9*  The App may include links to third-party websites or services, including but not limited to our payment service provider. Third-party websites or services are governed by their own terms and conditions and privacy policies. Use of such third-party websites or services is at your own risk. We are not responsible for any content that such third-party websites or services publish, nor are we liable for any damages that may result from using such third- party websites or services.
+*5.10*  Wir behalten uns das Recht vor, Ihren Zugang zu Ihrem Konto zu ändern, auszusetzen, zu sperren oder zu entfernen, wenn wir feststellen, dass Sie Ihr Konto und/oder die App für Aktivitäten nutzen, die den Betrieb der Kühlschränke und/oder der App stören oder zu stören versuchen, einschließlich, aber nicht beschränkt auf, Hacking, Spamming, Hochladen von Computerviren, Sammeln persönlicher Informationen anderer Nutzer, Erstellen betrügerischer oder gefälschter Konten, Versuche, auf die Kühlschränke mit anderen Mitteln als der App oder mit anderen Mitteln zuzugreifen.
 
-*5.10*  We reserve the right to modify, suspend, disable or remove your access to your Account if we notice that you are using your Account and/or the App for activities that may interfere of attempt to interfere with the operations of the Fridges and/or the App, including but not limited to hacking, spamming, uploading computer viruses, harvest personal information of other users, creating fraudulent or spoof accounts, attempting to access the Fridges by other means than using the App, or any other means.
-       
-## 6. Using the Payment Terminal
+## 6. Benutzung des Zahlungsterminals
 
-*6.1*  Some of our Fridges work with a built-in Payment Terminal. To open the Fridge, you tap your bank card, credit card or other valid payment card near the Payment Terminal. The Payment Terminal captures the required information from your card and transmits this data to our payment service provider for authorization. Only if you take Products from the Fridge, your card will be charged, and the funds will be transferred to us.
+*6.1*  Einige unserer Kühlschränke arbeiten mit einem eingebauten Zahlungsterminal. Um den Kühlschrank zu öffnen, tippen Sie auf Ihre Bankkarte, Kreditkarte oder eine andere gültige Zahlungskarte in der Nähe des Zahlungsterminals. Das Zahlungsterminal erfasst die erforderlichen Informationen von Ihrer Karte und übermittelt diese Daten zur Autorisierung an unseren Zahlungsdienstleister. Nur wenn Sie Produkte aus dem Kühlschrank entnehmen, wird Ihre Karte belastet, und das Geld wird an uns überwiesen.
 
-*6.2*  For contactless Payment Terminals, the transaction size may be limited to a certain amount. The allowable amount for contactless transactions varies depending on your bank, credit card company or any other payment service provider.
+*6.2*  Bei kontaktlosen Zahlungsterminals kann die Transaktionsgröße auf einen bestimmten Betrag begrenzt sein. Der zulässige Betrag für kontaktlose Transaktionen hängt von Ihrer Bank, Ihrem Kreditkartenunternehmen oder einem anderen Anbieter von Zahlungsdiensten ab.
 
-## 7. Content and Advertisements
+*6.3*  Wenn Sie über ein Zahlungsterminal bezahlen, ist es möglich, eine Quittung über Ihre Einkäufe zu erhalten, wenn Sie dies wünschen. Unsere Kühlschränke bieten möglicherweise einen Hyperlink, über den Sie sich mit Ihrem Mobilgerät oder einem anderen Gerät, wie z.B. einem Personal Computer oder Laptop, anmelden können, um die Quittung herunterzuladen. Wenn Sie später auf den Hyperlink zugreifen möchten, stellen Sie bitte sicher, dass Sie ihn irgendwo speichern. Der Hyperlink kann über den Bildschirm der Kühlschränke, einen Aufkleber auf den Kühlschränken oder jede andere geeignete Methode bereitgestellt werden. An einigen unserer Kühlschränke kann auch ein QR-Code angebracht sein. Sie können den Code mit Ihrem Mobilgerät einscannen, um Ihre Quittung zu erhalten.
 
-*7.1*  The screens on the Fridges and/or the App may display advertisements, promotions, illustrations and other content ("Content") from us or third parties, such as (but not limited to) food suppliers we work with. Depending on the information you have made available to us or third parties, such advertisements or promotions may be personalized and targeted to you. We are not liable for any damages that may result from incorrect or incomplete information published through such advertisements or promotions.
+## 7. Inhalt und Werbung
 
-*7.2*  Content may include descriptions, visualization and other details of the Products sold in our Fridges. Such information is provided for your convenience only. We do not guarantee the accuracy of such information. In that respect, you acknowledge and agree that you purchase and consume our Products at your own risk.
+*7.1*  Auf den Bildschirmen der Kühlschränke und/oder der App können Anzeigen, Werbeaktionen, Illustrationen und andere Inhalte ("Inhalte") von uns oder Dritten, wie z.B. (aber nicht ausschließlich) Lebensmittelhersteller, mit denen wir zusammenarbeiten, angezeigt werden. Abhängig von den Informationen, die Sie uns oder Dritten zur Verfügung gestellt haben, können solche Anzeigen oder Werbeaktionen personalisiert und auf Sie ausgerichtet sein. Wir haften nicht für Schäden, die durch unrichtige oder unvollständige Informationen entstehen, die durch solche Anzeigen oder Werbeaktionen veröffentlicht werden.
 
-*7.3*  The Content will be focused around food advertisements and food and nutrition information. In case you feel exposed to Content that you may find offensive, indecent or objectionable, we are not liable to you for such Content.
+*7.2*  Der Inhalt kann Beschreibungen, Visualisierungen und andere Details der in unseren Kühlschränken verkauften Produkte umfassen. Solche Informationen werden nur zu Ihrer Bequemlichkeit bereitgestellt. Wir garantieren nicht für die Richtigkeit dieser Informationen. In dieser Hinsicht erkennen Sie an und stimmen zu, dass Sie unsere Produkte auf eigenes Risiko kaufen und konsumieren.
 
-*7.4*  We reserve the right to add or remove content for any reason and without prior notice.
+*7.3*  Der Inhalt konzentriert sich hauptsächlich auf Lebensmittelwerbung und Lebensmittel- und Nährwertinformationen. Falls Sie sich Inhalten ausgesetzt fühlen, die Sie beleidigend, anstößig oder anstößig finden könnten, haften wir Ihnen gegenüber nicht für solche Inhalte.
 
-*7.5*  For third-party content, the creator, owner or licensee retains the intellectual property rights on such content.
+*7.4*  Wir behalten uns das Recht vor, Inhalte aus beliebigen Gründen und ohne vorherige Ankündigung hinzuzufügen oder zu entfernen.
 
-## 8. Intellectual Property Rights
+*7.5*  Bei Inhalten Dritter behält der Ersteller, Eigentümer oder Lizenznehmer die geistigen Eigentumsrechte an diesen Inhalten.
 
-*8.1*  We and/or our licensors retain the intellectual property rights, such as copyrights, trademarks, trade secrets, trade names, patents or other intellectual property rights on the Fridges, the App and all related Content and any other materials (except for the content mentioned in article 7.5). You are not allowed to copy or reproduce any of the materials protected by intellectual property rights, or make them available to third parties, without our prior written permission. We are allowed to claim compensation from you when you violate this provision.
+## 8. Rechte an geistigem Eigentum
 
-*8.2*  If you notice a copyright infringement, please contact us at moin@hamburg.frischepost.de. It is our policy to respond to notices of alleged copyright infringement as soon as possible.
+*8.1*  Wir und/oder unsere Lizenzgeber behalten die geistigen Eigentumsrechte, wie Urheberrechte, Marken, Geschäftsgeheimnisse, Handelsnamen, Patente oder andere geistige Eigentumsrechte an den Kühlschränken, der App und allen damit verbundenen Inhalten und allen anderen Materialien (mit Ausnahme der in Artikel 7.5 genannten Inhalte). Es ist Ihnen nicht gestattet, ohne unsere vorherige schriftliche Genehmigung Materialien, die durch geistige Eigentumsrechte geschützt sind, zu kopieren oder zu reproduzieren oder sie Dritten zur  Verfügung zu stellen. Wir sind berechtigt, Schadenersatz von Ihnen zu fordern, wenn Sie gegen diese Bestimmung verstoßen.
 
-*8.3*  The provisions of this article remain valid after termination of the Agreement between you and us.
+*8.2*  Wenn Sie eine Urheberrechtsverletzung bemerken, kontaktieren Sie uns bitte unter moin@hamburg.frischepost.de. Es gehört zu unseren Grundsätzen, auf Hinweise auf mutmaßliche Urheberrechtsverletzungen so schnell wie möglich zu reagieren.
 
-## 9. Indemnification
+*8.3*  Die Bestimmungen dieses Artikels bleiben auch nach Beendigung der Vereinbarung zwischen Ihnen und uns gültig.
 
-*9.1*  You indemnify us from and against any third-party claims, actions, liabilities, losses, damages, judgments, costs and expenses, including reasonable attorney’s fees, that arise because you breach any of the provisions of these Terms and Conditions and/or you violate any laws, regulations or the rights of any third party.
+## 9. Schadensersatz
 
-*9.2*  You also indemnify us from and against any third-party claims, actions, liabilities, losses, damages, judgments, costs and expenses, including reasonable attorney’s fees, if not you, but any other person that you allow to use the Fridges and/or the App and/or your Account, breaches these Terms and Conditions and/or violates any laws, regulations or the rights of any third party.
+*9.1*  Sie stellen uns von und gegen alle Ansprüche, Klagen, Haftungen, Verluste, Schäden, Urteile, Kosten und Ausgaben Dritter, einschließlich angemessener Anwaltsgebühren, frei, die entstehen, weil Sie gegen eine der Bestimmungen dieser Geschäftsbedingungen verstoßen und/oder weil Sie Gesetze, Vorschriften oder die Rechte Dritter verletzen.
 
-## 10. Disclaimer of liability
+*9.2*  Sie stellen uns auch von und gegen jegliche Ansprüche, Klagen, Haftungen, Verluste, Schäden, Urteile, Kosten und Ausgaben Dritter, einschließlich angemessener Anwaltsgebühren, frei, wenn nicht Sie, sondern eine andere Person, der Sie die Nutzung der Kühlgeräte und/oder der App und/oder Ihres Kontos gestatten, gegen diese Allgemeinen Geschäftsbedingungen verstößt und/oder Gesetze, Vorschriften oder die Rechte Dritter verletzt.
 
-*10.1*  We are only liable for damage if and insofar as this damage is caused by intent or gross negligence from our side. We are only liable for personal injury or property damage for which we are insured or should reasonably be insured. Our total liability for any claims shall in no event exceed the amount covered by our insurance.
+## 10. Haftungsausschluss
 
-*10.2*  We are never liable for indirect damage, such as, but not limited to, consequential loss, lost profit, reputational damage or damage to third parties that is not caused by intent or gross negligence.
+*10.1*  Wir haften für Schäden nur, wenn und soweit diese auf Vorsatz oder grobe Fahrlässigkeit unsererseits zurückzuführen sind. Wir haften nur für Personen- oder Sachschäden, für die wir versichert sind oder vernünftigerweise versichert sein sollten. Unsere Gesamthaftung für etwaige Ansprüche übersteigt in keinem Fall den von unserer Versicherung gedeckten Betrag.
 
-*10.3*  We are never liable for damage that results from not following instructions, manuals and warnings regarding the Fridge, App, your Account and/or our Products.     
+*10.2*  Wir haften niemals für indirekte Schäden, wie z.B. Folgeschäden, entgangenen Gewinn, Rufschädigung oder Schäden an Dritten, die nicht auf Vorsatz oder grobe Fahrlässigkeit unsererseits zurückzuführen sind.
 
-*10.4*  We are never responsible or liable for third-party content to which you may be exposed when you use the Fridges and/or the App. Any responsibility or liability of such content remains solely with the creator, owner or licensee of such content and not with us. Article 7 explains more about third-party content.
+*10.3*  Wir sind niemals haftbar für Schäden, die aus der Nichtbeachtung von Anweisungen, Handbüchern und Warnungen bezüglich des Kühlschranks, der App, Ihres Kontos und/oder unserer Produkte resultieren.
 
-*10.5*  If you use the App, we are never liable for damage resulting from incorrect information you provided in your Account or loss of your password or other information you provided. We are never liable for data loss or security breaches associated with the App. 
+*10.4*  Wir sind niemals verantwortlich oder haftbar für Inhalte Dritter, denen Sie bei der Nutzung des Kühlschranks und/oder der App ausgesetzt sein können. Jegliche Verantwortung oder Haftung für solche Inhalte verbleibt allein beim Ersteller, Eigentümer oder Lizenznehmer dieser Inhalte und nicht bei uns. Artikel 7 erklärt mehr über Inhalte Dritter.
 
-*10.6*  We are never liable for damages if any obligation under these Terms and Conditions is prevented, delayed, restricted or interfered with by causes beyond our reasonable control ("Force Majeure"). Force Majeure includes, without limitation, fire, explosion, vandalism, storm or other similar occurrences, orders or acts of military or civil authority, national emergencies, insurrections, riots or wars, or strikes, lock-outs or work stoppages. Force Majeure also includes causes beyond the reasonable control of third parties with which we cooperate, such as food suppliers, and which affect us in meeting our obligations under these Terms and Conditions.
+*10.5*  Wenn Sie die App benutzen, sind wir niemals haftbar für Schäden, die aus falschen Informationen, die Sie in Ihrem Konto angegeben haben, oder aus dem Verlust Ihres Passworts oder anderer Informationen, die Sie angegeben haben, resultieren. Wir sind niemals haftbar für Datenverlust oder Sicherheitsverletzungen im Zusammenhang mit der App.
 
-## 11. Complaints
+*10.6*  Wir sind niemals für Schäden haftbar, wenn eine Verpflichtung gemäß diesen Allgemeinen Geschäftsbedingungen durch Ursachen, die außerhalb unserer angemessenen Kontrolle liegen ("Höhere Gewalt"), verhindert, verzögert, eingeschränkt oder beeinträchtigt wird. Höhere Gewalt umfasst, ohne Einschränkung, Feuer, Explosion, Vandalismus, Sturm oder andere ähnliche Vorkommnisse, Befehle oder Handlungen militärischer oder ziviler Behörden, nationale Notfälle, Aufstände, Unruhen oder Kriege oder Streiks, Aussperrungen oder Arbeitsunterbrechungen. Höhere Gewalt umfasst auch Ursachen, die außerhalb der zumutbaren Kontrolle von Dritten liegen, mit denen wir zusammenarbeiten, wie z.B. Nahrungsmittellieferanten, und die uns bei der Erfüllung unserer Verpflichtungen gemäß diesen Allgemeinen Geschäftsbedingungen beeinträchtigen.
 
-*11.1*  If you have a complaint about any shortcomings in the Fridges, the App and/or our Products, you must inform us within 14 days after discovery of the shortcomings in writing. After 14 days, the right to file a complaint expires and we are not obliged to take your complaint into consideration anymore.
+## 11. Beschwerden
 
-*11.2*  We will respond to your complaint as soon as possible, but no later than within 7 days after having received it. If it is not yet possible for us to formulate a substantive reaction within 7 days, we will confirm the receipt of your complaint and we will give an indication of the term within we expect to give a substantive reaction to your complaint.
+*11.1*  Wenn Sie eine Beschwerde über Mängel an den Kühlschränken, der App und/oder unseren Produkten haben, müssen Sie uns innerhalb von 14 Tagen nach Entdeckung der Mängel schriftlich informieren. Nach 14 Tagen erlischt das Recht, eine Beschwerde einzureichen, und wir sind nicht mehr verpflichtet, Ihre Beschwerde zu berücksichtigen.
 
-*11.3*  Your complaint must contain a detailed description of the shortcomings you have discovered, so we are able to assess your complaint and its correctness adequately. If your complaint is grounded, we will do our best to resolve it within a reasonable period of time.
+*11.2*  Wir werden so schnell wie möglich auf Ihre Beschwerde antworten, spätestens jedoch innerhalb von 7 Tagen nach Erhalt der Beschwerde. Falls es uns noch nicht möglich ist, innerhalb von 7 Tagen eine inhaltliche Reaktion zu formulieren, werden wir den Eingang Ihrer Beschwerde bestätigen und die Frist angeben, innerhalb derer wir voraussichtlich eine inhaltliche Reaktion auf Ihre Beschwerde geben werden.
 
-*11.4*  Filing a complaint does not give you the right to suspend payments or to receive refunds.
+*11.3*  Ihre Beschwerde muss eine detaillierte Beschreibung der von Ihnen festgestellten Mängel enthalten, damit wir in der Lage sind, Ihre Beschwerde und deren Richtigkeit angemessen zu beurteilen. Wenn Ihre Beschwerde begründet ist, werden wir unser Bestes tun, um sie innerhalb einer angemessenen Frist zu lösen.
 
-## 12. General
+*11.4*  Das Einreichen einer Beschwerde gibt Ihnen nicht das Recht, Zahlungen auszusetzen oder Rückerstattungen zu erhalten.
 
-*12.1*  You may only use the Fridges, the App and our Products for personal, non-commercial use. You may not use the Fridges, the App and/or our Products for any purpose that is unlawful or prohibited by these Terms and Conditions.
+## 12. Allgemeines
 
-*12.2*  In the event of any provision of these Terms and Conditions being or becoming void in whole or in part, then the other provisions of the Agreement shall remain fully valid and enforceable and the void provisions shall be replaced by other provisions corresponding as closely as possible with the void provisions.
+*12.1*  Sie dürfen die Kühlschränke, die App und unsere Produkte nur für den persönlichen, nichtkommerziellen Gebrauch nutzen. Sie dürfen die Kühlschränke, die App und/oder unsere Produkte nicht für Zwecke verwenden, die ungesetzlich oder durch diese Allgemeinen Geschäftsbedingungen verboten sind.
 
-*12.3*  We reserve the right to change, suspend or discontinue the services we offer through our Fridges and/or the App without notice.
+*12.2*  Sollte eine Bestimmung dieser Allgemeinen Geschäftsbedingungen ganz oder teilweise ungültig sein oder werden, so bleiben die übrigen Bestimmungen der Vereinbarung vollständig gültig und durchsetzbar, und die ungültigen Bestimmungen werden durch andere Bestimmungen ersetzt, die den ungültigen Bestimmungen so weit wie möglich entsprechen.
 
-*12.4*  We may modify or amend these Terms and Conditions from time to time.
+*12.3*  Wir behalten uns das Recht vor, die Dienste, die wir über unsere Kühlschränke und/oder die App anbieten, ohne Vorankündigung zu ändern, auszusetzen oder einzustellen.
 
-*12.5*  You may not transfer or assign any of your rights under these Terms and Conditions to a third party.
+*12.4*  Wir behalten uns das Recht vor, diese Geschäftsbedingungen von Zeit zu Zeit zu ändern oder zu ergänzen.
 
-## 13. Disputes and Governing Law
+*12.5*  Sie sind nicht berechtigt, eines Ihrer Rechte aus diesen Allgemeinen Geschäftsbedingungen an Dritte zu übertragen oder abzutreten.
 
-*13.1*  These Terms and Conditions shall be governed by and interpreted in accordance with the laws of Germany.
+## 13. Streitigkeiten und geltendes Recht
 
-*13.2*  If any dispute arises out of, or in connection with, your use of the Fridges and/or the App, we will try to resolve this dispute mutually within a reasonable period of time. Otherwise, the dispute shall be settled by the competent German court.
+*13.1*  Diese Allgemeinen Geschäftsbedingungen unterliegen den Gesetzen Deutschlands und werden in Übereinstimmung mit diesen ausgelegt.
+
+*13.2*  Sollte ein Streitfall aus oder in Verbindung mit Ihrer Nutzung der Kühlschränke und/oder der App entstehen, werden wir versuchen, diesen Streitfall innerhalb einer angemessenen Zeitspanne einvernehmlich zu lösen. Andernfalls wird die Streitigkeit durch das zuständige deutsche Gericht beigelegt.

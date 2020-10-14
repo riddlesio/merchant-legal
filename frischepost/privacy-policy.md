@@ -1,117 +1,133 @@
-#### Updated: 18-05-2020
+#### Updated: 21-09-2020
 
-Frischepost GmbH ("We" or "Frischepost") is committed to protecting and respecting your privacy. This privacy policy sets out the basis on which we process any personal data we collect from you or that you provide to us. Please read this privacy policy carefully to understand our views and practices regarding your personal data and how we will treat it.
+Frischepost GmbH ("Wir" oder "Frischepost") verpflichtet sich, Ihre Privatsphäre zu schützen und zu respektieren. Diese Datenschutzrichtlinie legt die Grundlage fest, auf der wir alle persönlichen Daten verarbeiten, die wir von Ihnen erheben oder die Sie uns zur Verfügung stellen. Bitte lesen Sie diese Datenschutzrichtlinie sorgfältig durch, um unsere Ansichten und Praktiken bezüglich Ihrer persönlichen Daten und deren Behandlung zu verstehen.
 
-## Who are we?
+## Wer sind wir?
 
-Frischepost is running a pilot with commercial fridges containing fresh and healthy food, drinks, snacks and other products supplied by us. The technological solutions used in the fridges make it possible for us to record and process which products you purchase from us. This makes it easier for us to stock the fridges properly and to know our consumers’ needs. Payments occur through our mobile app or through a contactless payment terminal that is built onto the fridge. For more information about Frischepost and our products, visit our website [www.frischepost.de](https://frischepost.de).
+Frischepost betreibt ein Pilotprojekt mit kommerziellen Kühlschränken mit frischen und gesunden Lebensmitteln, Getränken, Snacks und anderen von uns gelieferten Produkten. Die in den Kühlschränken eingesetzten technologischen Lösungen ermöglichen es uns, zu erfassen und zu verarbeiten, welche Produkte Sie bei uns kaufen. Das erleichtert es uns, die Kühlschränke richtig zu bestücken und die Bedürfnisse unserer Verbraucher zu kennen. Die Zahlungen erfolgen über unsere mobile App oder über ein kontaktloses Zahlungsterminal, das in den Kühlschrank eingebaut ist.
 
-Our contact details:
+Unsere Kontaktdaten:
 
-Email address: moin@hamburg.frischepost.de
+Frischepost GmbH
+Ausschläger Billdeich 18
+20539 Hamburg
 
-Frischepost acts as the data controller in processing your personal data. That means we determine the purposes for and the means by which your personal data is processed. If you have any questions about this Privacy Notice, the data we process, or if you would like to exercise one of your data protection rights, do not hesitate to contact us.
+Email: moin@hamburg.frischepost.de
+Webseite: www.frischepost.de
 
-## What kind of personal data we collect from you and for what purposes?
+Die Kontaktdaten unseres Datenschutzbeauftragten:
+
+heyData UG (haftungsbeschränkt)
+Landsberger Straße 155
+80687 München
+
+Email: info@heydata.eu
+Webseite: www.heydata.eu
+
+Frischepost fungiert bei der Verarbeitung Ihrer persönlichen Daten als für die Datenverarbeitung Verantwortlicher. Das heisst, wir bestimmen den Zweck und die Art und Weise, wie Ihre persönlichen Daten verarbeitet werden.
+
+Wenn Sie Fragen zu diesem Datenschutzhinweis oder zu den von uns verarbeiteten Daten haben oder wenn Sie eines Ihrer Datenschutzrechte wahrnehmen möchten, zögern Sie nicht, uns zu kontaktieren.
+
+## Welche Art von persönlichen Daten wir von Ihnen erfassen und zu welchen Zwecken?
  
-*Data we process when you use our mobile app*
+*Daten, die wir verarbeiten, wenn Sie unsere mobile Anwendung verwenden*
 
-Some of our fridges should be operated with a mobile app, that can be downloaded from the Apple App Store or Google Play Store. When you use the app for the first time, you are asked to create a user account and provide payment details. The app contains a QR scanner that can be used to unlock the fridge. Payments occur automatically after you have taken products from the fridge. The app shows your purchases and receipts.
+Einige unserer Kühlschränke sollten mit einer mobilen App betrieben werden, die im Apple App Store oder Google Play Store heruntergeladen werden kann. Wenn Sie die App zum ersten Mal verwenden, werden Sie aufgefordert, ein Nutzerkonto zu erstellen und Zahlungsdetails anzugeben. Die App enthält einen QR-Scanner, der zum Entsperren des Kühlschranks verwendet werden kann. Die Zahlungen erfolgen automatisch, nachdem Sie Produkte aus dem Kühlschrank entnommen haben. Die App zeigt Ihre Einkäufe und Quittungen an.
 
-Through the fridge and app, we may collect and process the following information:
+Mit Hilfe des Kühlschranks und der App können wir die folgenden Informationen erfassen und verarbeiten:
 
-- First and last name
-- Email address
-- Language preference
-- Information about your device, including device models, OS versions, configurations and settings, IP addresses, device identifiers and other unique identifiers
-- Which fridge(s) you have been using
-- The products you have purchased from the fridge(s)
-- Payment details, such as bank card or credit card number*
+- Vor- und Nachname
+- E-Mail-Adresse
+- Bevorzugte Sprache
+- Informationen über Ihr Gerät, einschließlich Gerätemodelle, Betriebssystemversionen, Konfigurationen und Einstellungen, IP-Adressen, Gerätekennungen und andere eindeutige Kennungen
+- Welche(r) Kühlschrank(e) Sie benutzt haben
+- Die Produkte, die Sie aus dem Kühlschrank/den Kühlschränken gekauft haben
+- Zahlungsdetails, wie z.B. Bankkarten- oder Kreditkartennummer*
 
-We use this information to:
+Wir verwenden diese Informationen, um:
 
-- Identify and authenticate you
-- Enable interaction with the fridge(s)
-- Provide software updates
-- Offer maintenance services and customer support
-- Provide (personalized) notifications, alerts, offers and promotions through the app
-- Perform order management and inventory management.
-- Send you receipts by email, if desired
+- Sie zu identifizieren und zu authentifizieren
+- Interaktion mit dem/den Kühlschrank(en) ermöglichen
+- Bereitstellung von Software-Updates
+- Wartungsdienste und Kundenbetreuung anbieten
+- Bereitstellung von (personalisierten) Benachrichtigungen, Alerts, Angeboten und Aktionen über die App
+- Auftragsverwaltung und Bestandsverwaltung durchführen
+- Ihnen Quittungen per E-Mail zusenden, falls gewünscht
 
-In other words: we need your information to be able to offer you our services. Besides, we use your information to be able to increase the performance of the fridge and the app and to improve customer experience. We have a legitimate interest to do so.
+Mit anderen Worten: Wir benötigen Ihre Informationen, um Ihnen unsere Dienstleistungen anbieten zu können. Außerdem verwenden wir Ihre Informationen, um die Leistung des Kühlschranks und der App zu steigern und die Kundenerfahrung zu verbessern. Wir haben ein legitimes Interesse daran.
 
-*Please note: we do not have access to your payment details. These are processed by our payment service provider, that acts as a data processor. Our payment service provider has no access to other information we collect about you. Your payment details are only processed after you have given consent.
+*Bitte beachten Sie: Wir haben keinen Zugang zu Ihren Zahlungsdaten. Diese werden von unserem Zahlungsdienstleister verarbeitet, der als Datenverarbeiter fungiert. Unser Zahlungsdienstanbieter hat keinen Zugang zu anderen Informationen, die wir über Sie sammeln. Ihre Zahlungsdaten werden nur verarbeitet, nachdem Sie Ihre Zustimmung gegeben haben.
 
-*Data we process through fridges with a payment terminal*
+*Daten, die wir über Kühlschränke mit einem Zahlungsterminal verarbeiten*
 
-Some of our fridges work with a built-in contactless payment terminal. You may open the fridge after the terminal has read your bank card or credit card. Only after you have taken out the desired products, your bank card or credit card will be charged. We collect information about the products you have purchased.
+Einige unserer Kühlschränke arbeiten mit einem eingebauten kontaktlosen Zahlungsterminal. Sie können den Kühlschrank öffnen, nachdem das Terminal Ihre Bank- oder Kreditkarte gelesen hat. Erst  nachdem Sie die gewünschten Produkte entnommen haben, wird Ihre Bank- oder Kreditkarte belastet. Wir sammeln Informationen über die Produkte, die Sie gekauft haben.
 
-Your payment data are processed by our payment service provider. We have no access to your payment data. We receive a user-ID from our payment service provider, that we can link to the purchases you have made and the fridge you have been using, but not to you as an individual. We use the information about your purchases and the fridge to perform order management and inventory management and to improve customer experience.
+Ihre Zahlungsdaten werden von unserem Zahlungsdienstleister verarbeitet. Wir haben keinen Zugang zu Ihren Zahlungsdaten. Wir erhalten von unserem Zahlungsdienstleister eine Benutzer-ID, die wir mit den von Ihnen getätigten Einkäufen und dem von Ihnen benutzten Kühlschrank verknüpfen können, aber nicht mit Ihnen als Einzelperson. Wir verwenden die Informationen über Ihre Einkäufe und den Kühlschrank, um die Auftrags- und Bestandsverwaltung durchzuführen und die Kundenerfahrung zu verbessern.
 
-*Data we process when you contact us*
+*Daten, die wir verarbeiten, wenn Sie uns kontaktieren*
 
-When you contact us, we process your name, email address, telephone number (when you call us) and other information you provide to us. We use this information to communicate with you, to be able to respond to your questions or requests and to provide support.
+Wenn Sie mit uns Kontakt aufnehmen, verarbeiten wir Ihren Namen, Ihre E-Mail-Adresse, Ihre Telefonnummer (wenn Sie uns anrufen) und andere Informationen, die Sie uns zur Verfügung stellen. Wir verwenden diese Informationen, um mit Ihnen zu kommunizieren, um auf Ihre Fragen oder Wünsche reagieren zu können und um Support zu leisten.
 
-*Data we process through social media*
+*Daten, die wir über soziale Medien verarbeiten*
 
-We use social media accounts to promote our business and interact with our customers. When you choose to comment or post content on our social media accounts, we can see your name and profile picture. Also, you might provide personal information in your comment or post. You are not required to provide personal information on social media, so this is your own responsibility. We will not process personal data you provide through social media any further.
+Wir nutzen Social Media-Accounts, um für unser Geschäft zu werben und mit unseren Kunden zu interagieren. Wenn Sie sich entscheiden, Kommentare abzugeben oder Inhalte in unseren Social Media-Konten zu veröffentlichen, können wir Ihren Namen und Ihr Profilbild sehen. Außerdem können Sie in Ihrem Kommentar oder Beitrag persönliche Informationen angeben. Sie sind nicht verpflichtet, persönliche Informationen in sozialen Netzwerken anzugeben, daher liegt dies in Ihrer eigenen Verantwortung. Wir werden personenbezogene Daten, die Sie über soziale Medien zur Verfügung stellen, nicht weiter verarbeiten.
 
-## How long do we store your personal data?
+## Wie lang speichern wir Ihre persönlichen Daten?
 
-We will not store your personal data any longer than is necessary for the purposes for which is was collected. This means that information will be destroyed or erased from our systems when it is no longer required. We will pseudonymize the information we store as much as possible.
+Wir werden Ihre persönlichen Daten nicht länger speichern, als es für die Zwecke, für die sie erhoben wurden, erforderlich ist. Das bedeutet, dass Informationen vernichtet oder von unseren Systemen gelöscht werden, wenn sie nicht mehr benötigt werden. Wir werden die von uns gespeicherten Informationen so weit wie möglich pseudonymisieren.
 
-Some information will be stored for a certain period of time because of legal obligations imposed on us. For example, the Tax Authorities require us to store receipts, sales and inventory administration and other information for a legally determined number of years.
+Einige Informationen werden aufgrund gesetzlicher Verpflichtungen, die uns auferlegt wurden, für einen bestimmten Zeitraum gespeichert. Zum Beispiel verlangen die Steuerbehörden von uns, dass wir Quittungen, Verkaufs- und Bestandsverwaltung und andere Informationen mindestens 7 Jahre lang aufbewahren.
 
-If you make use of our app, the personal information you provide is stored indefinitely until you delete your account.
+Wenn Sie unsere App nutzen, werden die von Ihnen angegebenen persönlichen Daten auf unbestimmte Zeit gespeichert, bis Sie Ihr Konto löschen.
 
-Information you provide in public posts and comments on our social media accounts will be stored indefinitely, unless we delete our social media accounts, or you choose to remove your posts and reactions. You can also contact us if you want us to remove certain information.
+Informationen, die Sie in öffentlichen Beiträgen und Kommentaren zu unseren Social-Media-Konten angeben, werden auf unbestimmte Zeit gespeichert, es sei denn, wir löschen unsere Social-Media- Konten, oder Sie entscheiden sich dafür, Ihre Beiträge und Reaktionen zu löschen. Sie können uns auch kontaktieren, wenn Sie möchten, dass wir bestimmte Informationen entfernen.
 
-## Data processing by third parties
+## Datenverarbeitung durch Dritte
 
-We make use of third parties to be able to run our business and offer you our services. Those third parties may process your personal data, but only to the extent necessary. The following third parties act as data processors and only process data on our behalf:
+Wir bedienen uns Dritter, um unser Geschäft betreiben und Ihnen unsere Dienstleistungen anbieten zu können. Diese Drittparteien dürfen Ihre persönlichen Daten verarbeiten, jedoch nur im notwendigen Umfang. Die folgenden Drittparteien handeln als Datenverarbeiter und verarbeiten Daten nur in unserem Auftrag:
 
-- Our technical service supplier has developed our app and back office and stores information collected through the fridges and the app on their servers, which are located in The Netherlands.
-- Our payment service provider enables us to accept online payments through the app and payments through the contactless payment terminals.
-- We work together with companies that provide services such as administration, billing, sending emails on our behalf, customer contact centers, advertisements and website and email hosting.
-- Affiliate companies which we control or own.
+- Unser technischer Dienstleistungsanbieter hat unsere App und unser Backoffice entwickelt und speichert die über die Kühlschränke und die App gesammelten Informationen auf ihren Servern, die sich in den Niederlanden befinden.
+- Unser Zahlungsdienstanbieter ermöglicht es uns, Online-Zahlungen über die App und Zahlungen über die kontaktlosen Zahlungsterminals zu akzeptieren.
+- Wir arbeiten mit Unternehmen zusammen, die Dienstleistungen wie Verwaltung, Rechnungsstellung, E-Mail-Versand in unserem Namen, Kundenkontaktzentren, Werbung sowie Website- und E-Mail-Hosting anbieten.
+- Affiliate-Unternehmen, die wir kontrollieren oder besitzen.
 
-We may also share information with the following third parties:
+Wir können Informationen auch an die folgenden Dritten weitergeben:
 
-- Food suppliers, to offer you fresh food from our fridges.
-- Companies that can repair our fridges when they are broken or do not function properly.p
+- Lebensmittellieferanten, um Ihnen frische Lebensmittel aus unseren Kühlschränken anzubieten.
+- Unternehmen, die unsere Kühlschränke reparieren können, wenn sie kaputt sind oder nicht richtig funktionieren.
 
-These parties act as data controllers. Their main businesses do not concern the processing of personal data, but they might need some personal data to be able to carry out their services. We limit the disclosure of personal data to those parties as much as possible. We may share analytical data with our food suppliers, but we will not share anything that can be related to individuals with them. If you notify us of a defect in one of our fridges by email or telephone, we may occasionally share your contact details with repair and service companies. We will ask for your consent before we do so. Normally, we do not share personal information with such companies.
+Diese Parteien fungieren als für die Datenverarbeitung Verantwortliche. Ihre Haupttätigkeiten betreffen nicht die Verarbeitung personenbezogener Daten, aber sie benötigen unter Umständen einige personenbezogene Daten, um ihre Dienstleistungen erbringen zu können. Wir beschränken die Weitergabe von persönlichen Daten an diese Parteien so weit wie möglich. Wir können analytische Daten mit unseren Nahrungsmittellieferanten austauschen, aber wir werden ihnen nichts mitteilen, was mit Einzelpersonen in Verbindung gebracht werden kann. Wenn Sie uns per E-Mail oder telefonisch über einen Defekt in einem unserer Kühlschränke informieren, können wir gelegentlich Ihre Kontaktdaten an Reparatur- und Serviceunternehmen weitergeben. Wir werden Sie um Ihre Zustimmung bitten, bevor wir dies tun. Normalerweise geben wir keine persönlichen Informationen an solche Unternehmen weiter.
 
-We may also disclose personal information to third parties when we are required to do so by the courts or to comply with other legal, statutory or regulatory obligations.
+Wir können personenbezogene Daten auch an Dritte weitergeben, wenn wir von Gerichten dazu aufgefordert werden oder um andere gesetzliche, satzungsmäßige oder behördliche Verpflichtungen zu erfüllen.
 
-## Data transfer outside the European Economic Area
+## Datentransfer außerhalb des Europäischen Wirtschaftsraums
 
-We try to limit data transfer outside the EEA as much as possible. Some of the third parties mentioned above may transfer or store your data in countries outside the EEA. We make sure these third parties have appropriate safeguards in place.
+Wir versuchen, den Datentransfer außerhalb des EWR so weit wie möglich einzuschränken. Einige der oben genannten Drittparteien können Ihre Daten in Länder außerhalb des EWR übertragen oder speichern. Wir stellen sicher, dass diese Drittparteien über angemessene Sicherheitsvorkehrungen verfügen.
 
-## Protection of your personal data
+## Schutz Ihrer persönlichen Daten
 
-To keep your personal data safe and secure, we have implemented administrative, technical and physical security measures appropriate to the size and nature of our business. For example, we protect our devices with passwords and other security measures, keep our websites, devices and operating systems up to date, use firewalls against viruses, cyberattacks and unauthorized access and our website uses a SSL certificate for secure online communications. Also, the third parties that process data on our behalf all take your privacy very seriously. We have closed data processing agreements with them to ensure that your personal data is protected properly.
+Um die Sicherheit Ihrer persönlichen Daten zu gewährleisten, haben wir administrative, technische und physische Sicherheitsmaßnahmen eingeführt, die der Größe und Art unseres Unternehmens angemessen sind. So schützen wir beispielsweise unsere Geräte mit Passwörtern und anderen Sicherheitsmaßnahmen, halten unsere Websites, Geräte und Betriebssysteme auf dem neuesten Stand, verwenden Firewalls gegen Viren, Cyberattacken und unbefugten Zugriff, und unsere Website verwendet ein SSL-Zertifikat für sichere Online-Kommunikation. Auch die Drittparteien, die in unserem Auftrag Daten verarbeiten, nehmen Ihre Privatsphäre sehr ernst. Wir haben mit ihnen Datenverarbeitungsvereinbarungen abgeschlossen, um sicherzustellen, dass Ihre persönlichen Daten angemessen geschützt werden.
 
-## Your rights
+## Ihre Rechte
 
-As a data subject, the GDPR provides you with certain rights concerning your personal data:
+Die DSGVO gewährt Ihnen als betroffene Person gewisse Rechte bezüglich Ihrer persönlichen Daten:
 
-- The right to be informed on what personal data is being used and for what;
-- The right of access to personal data that you’ve shared with us;
-- The right to rectification of incomplete or incorrect personal data;
-- The right to erasure if the purpose of personal data processing has been fulfilled;
-- The right to the restriction of processing when you’re exercising other rights, for example when a court case is in progress;
-- The right to object to processing of your personal data;
-- The right to data portability.
+- Das Recht, darüber informiert zu werden, welche persönlichen Daten wozu verwendet werden;
+- Das Recht auf Zugang zu den persönlichen Daten, die Sie uns mitgeteilt haben;
+- Das Recht auf Berichtigung unvollständiger oder unrichtiger personenbezogener Daten;
+- Das Recht auf Löschung, wenn der Zweck der Verarbeitung personenbezogener Daten erfüllt ist;
+- Das Recht auf Beschränkung der Verarbeitung, wenn Sie andere Rechte ausüben, zum Beispiel wenn ein Gerichtsverfahren im Gange ist;
+- Das Recht, der Verarbeitung Ihrer persönlichen Daten zu widersprechen;
+- Das Recht auf Übertragbarkeit der Daten.
 
-If you want to exercise one of your rights, please contact us at moin@hamburg.frischepost.de. We will get back to you within 1 month from the receipt of your request. When you use our mobile app, you can also access and rectify some of your personal data from there.
+Wenn Sie eines Ihrer Rechte ausüben möchten, kontaktieren Sie uns bitte unter moin@hamburg.frischepost.de. Wir werden uns innerhalb von 1 Monat nach Erhalt Ihres Antrags bei Ihnen melden. Wenn Sie unsere mobile Anwendung benutzen, können Sie von dort aus auch auf einige Ihrer persönlichen Daten zugreifen und diese korrigieren.
 
-If there is a dispute, we prefer to resolve it mutually. If we are unable to find a solution together, you can submit a complaint to the relevant German data protection authority.
+Wenn es einen Streitfall gibt, ziehen wir es vor, ihn einvernehmlich zu lösen. Sollten wir nicht in der Lage sein, gemeinsam eine Lösung zu finden, können Sie eine Beschwerde bei der zuständigen deutschen Datenschutzbehörde einreichen.
 
-## Third-party websites
+## Websites von Drittanbietern
 
-Our website or mobile app may contain hyperlinks to third-party websites. Our privacy policy does not apply to any of those third-party websites. Therefore, we cannot guarantee that those third-party websites process your personal data in a safe or responsible way. If you land on a third-party website by clicking on a hyperlink, we recommend that you read the privacy policy of this third-party website to be informed on how they process your personal data.
+Unsere Website oder mobile Anwendung kann Hyperlinks zu Websites Dritter enthalten. Unsere Datenschutzrichtlinie gilt nicht für diese Websites Dritter. Daher können wir nicht garantieren, dass  diese Websites Dritter Ihre persönlichen Daten auf sichere oder verantwortungsvolle Weise verarbeiten. Wenn Sie durch Klicken auf einen Hyperlink auf eine Website eines Dritten gelangen, empfehlen wir Ihnen, die Datenschutzrichtlinie dieser Website zu lesen, um sich darüber zu informieren, wie diese Ihre persönlichen Daten verarbeiten.
 
-## Updates to this Privacy Notice
+## Aktualisierungen dieser Datenschutzerklärung
 
-The services we offer might change from time to time. Laws and regulations may change as well. Therefore, we may update this privacy policy periodically without prior notice to you. We will publish the revised privacy policy on our website and/or in our app. We recommend that you check our privacy policy regularly to stay informed of changes that may affect you. If the way we process your personal data changes significantly, we may communicate these changes directly to you through the app, messages on the fridge or per email.
+Die von uns angebotenen Dienstleistungen können sich von Zeit zu Zeit ändern. Auch die Gesetze und Vorschriften können sich ändern. Daher kann es sein, dass wir diese Datenschutzrichtlinie regelmäßig aktualisieren, ohne Sie vorher zu benachrichtigen. Wir werden die überarbeitete Datenschutzrichtlinie auf unserer Website und/oder in unserer App veröffentlichen. Wir empfehlen Ihnen, unsere Datenschutzrichtlinie regelmäßig zu überprüfen, um über Änderungen informiert zu bleiben, die Sie betreffen könnten. Wenn sich die Art und Weise, wie wir Ihre persönlichen Daten verarbeiten, wesentlich ändert, können wir Ihnen diese Änderungen direkt über die App, über Nachrichten auf dem Kühlschrank oder per E-Mail mitteilen.
