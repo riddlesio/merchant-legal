@@ -1,16 +1,16 @@
-#### Updated: 31-01-2020
+#### Updated: 27-10-2020
 
-Health Food Wall B.V. ("We" or "Health Food Wall") is committed to protecting and respecting your privacy. This privacy policy sets out the basis on which we process any personal data we collect from you or that you provide to us. Please read this privacy policy carefully to understand our views and practices regarding your personal data and how we will treat it.
+The Treat ("We" or "The Treat") is a brand of Health Food Wall B.V. The Treat is committed to protecting and respecting your privacy. This privacy policy sets out the basis on which we process any personal data we collect from you or that you provide to us. Please read this privacy policy carefully to understand our views and practices regarding your personal data and how we will treat it.
 
 ## Who are we?
 
-Health Food Wall is running a pilot with commercial fridges containing fresh and healthy food, drinks, snacks and other products supplied by us. The technological solutions used in the fridges make it possible for us to record and process which products you purchase from us. This makes it easier for us to stock the fridges properly and to know our consumers’ needs. Payments occur through our mobile app or through a contactless payment terminal that is built onto the fridge. For more information about Health Food Wall and our products, visit our website [www.healthfoodwall.com](https://healthfoodwall.com).
+The Treat is running a pilot with commercial fridges containing fresh and healthy food, drinks, snacks and other products supplied by us. The technological solutions used in the fridges make it possible for us to record and process which products you purchase from us. This makes it easier for us to stock the fridges properly and to know our consumers’ needs. Payments occur through our mobile app or through a contactless payment terminal that is built onto the fridge. For more information about The Treat and our products, visit our website [www.healthfoodwall.com](https://healthfoodwall.com).
 
 Our contact details:
 
 Email address: info@healthfoodwall.com
 
-Health Food Wall acts as the data controller in processing your personal data. That means we determine the purposes for and the means by which your personal data is processed. If you have any questions about this Privacy Notice, the data we process, or if you would like to exercise one of your data protection rights, do not hesitate to contact us.
+The Treat acts as the data controller in processing your personal data. That means we determine the purposes for and the means by which your personal data is processed. If you have any questions about this Privacy Notice, the data we process, or if you would like to exercise one of your data protection rights, do not hesitate to contact us.
 
 ## What kind of personal data we collect from you and for what purposes?
  

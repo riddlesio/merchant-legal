@@ -1,5 +1,7 @@
 ## Address
 
+The Treat is a brand of:
+
 Health Food Wall B.V.
 
 Stationsstraat 36

@@ -1,12 +1,12 @@
-#### Last updated: 20 January 2020
+#### Last updated: 27 October 2020
 
-IMPORTANT: We, Health Food Wall, are running a pilot project with commercial fridges ("Fridges") containing fresh and healthy food, drinks, snacks and other products supplied by us ("Products"). The technological solutions used in the Fridges make it possible for us to record and process which Products you purchase from us. This makes it easier for us to stock the Fridges properly and to know our consumers’ needs. Payments occur through our Health Food Wall Fridges App ("App"), a mobile app that you have to install on a mobile device, or through a payment terminal ("Payment Terminal") that is built onto the Fridges. These Terms and Conditions apply on all your interactions with the Fridges and your use of the App and/or Payment Terminal.
+IMPORTANT: The Treat ("We" or "The Treat") is a brand of Health Food Wall B.V. We are running a pilot project with commercial fridges ("Fridges") containing fresh and healthy food, drinks, snacks and other products supplied by us ("Products"). The technological solutions used in the Fridges make it possible for us to record and process which Products you purchase from us. This makes it easier for us to stock the Fridges properly and to know our consumers’ needs. Payments occur through our The Treat App ("App"), a mobile app that you have to install on a mobile device, or through a payment terminal ("Payment Terminal") that is built onto the Fridges. These Terms and Conditions apply on all your interactions with the Fridges and your use of the App and/or Payment Terminal.
 
 By using one of our Fridges, whether they work with the mobile app or a payment terminal, you acknowledge and agree that you are participating in a pilot project and that the Fridges and/or the App may not work properly yet. Please read these Terms and Conditions carefully before you use our Fridges and/or the App. Article 1 provides more detailed information about this pilot project.
 
 For more information about us and our products, visit our website [www.healthfoodwall.com](https://healthfoodwall.com).
 
-## 1. Participating in the Health Food Wall pilot project
+## 1. Participating in the The Treat pilot project
 
 *1.1*  You acknowledge and agree that you are participating in our pilot project. That means that you make use of prototypes of the Fridges, some of which may contain built-in Payment Terminals, and/or the App (“Prototypes”). The Prototypes are not released for commercial sale yet. The Prototypes may not operate properly, be in final form or fully functional. Also, the Prototypes may contain errors, design flaws or other problems. Use of the Prototypes may result in unexpected results, damage or loss. The Prototypes are not certified yet by any certification authority.
 
@@ -30,7 +30,7 @@ For more information about us and our products, visit our website [www.healthfoo
 
 *3.3*  Errors and mistakes in the prices of our Products, for example when incorrect prices are shown in the App, on the display of the Fridges or on our website, do not bind us.
 
-*3.4*  If you have given your consent for processing payment details in the App or make use of a Payment Terminal, you authorize Health Food Wall to charge your bank account, credit card or any account relating to any other payment method.
+*3.4*  If you have given your consent for processing payment details in the App or make use of a Payment Terminal, you authorize The Treat to charge your bank account, credit card or any account relating to any other payment method.
 
 *3.5*  Your payment method may be preauthorized before making the actual purchase. If your payment method is declined, the Fridge may not open. We are not responsible if your payment method is declined for any reason. 
 
@@ -46,7 +46,7 @@ For more information about us and our products, visit our website [www.healthfoo
 
 *4.3*  If you are accidentally charged for Products that you have not purchased, please contact us at info@healthfoodwall.com as soon as possible and we will look for a suitable solution.
 
-## 5. Using the Health Food Wall App
+## 5. Using the The Treat App
 
 *5.1*  Some of our Fridges should be operated with the App. By using the App, you can open the Fridge and take out the Products you desire. After you have closed the Fridge, the App will show your purchases and receipts. The App may also show other information, such as prices or the ingredients of our Products. You can download the App from the Google Play Store or Apple App Store.
 
