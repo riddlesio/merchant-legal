@@ -4,17 +4,19 @@ The Treat is a brand of:
 
 Health Food Wall B.V.
 
-Stationsstraat 36
+Singel 443D
 
-1506 DG
+1012 WP
 
-Zaandam, The Netherlands
+Amsterdam, The Netherlands
 
 ## Contact
 
 Email: [info@healthfoodwall.com](mailto:info@healthfoodwall.com)
 
 Website: [www.healthfoodwall.com](https://healthfoodwall.com)
+
+Telephone (issues): [+31628185349](tel:+31628185349)
 
 ## Legal
 
