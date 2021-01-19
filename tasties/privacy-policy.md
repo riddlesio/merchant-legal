@@ -19,6 +19,7 @@ Tasties acts as the data controller in processing your personal data. That means
 Our Fridges should be operated with our App, that can be downloaded from the Apple App Store or Google Play Store. When you use the App for the first time, you are asked to create a user account and provide payment details. The App contains a QR scanner that can be used to unlock the fridge. Payments occur automatically after you have taken Products from the fridge. The App shows your purchases and receipts.
 
 Through the fridge and App, we may collect and process the following information:
+
 - First and last name
 - Company where you work
 - E-mail address
@@ -29,6 +30,7 @@ Through the fridge and App, we may collect and process the following information
 - Payment details, such as bank card (e.g. IBAN or BIC) or credit card number*
 
 We use this information to:
+
 - Identify and authenticate you
 - Ensure the use of our services
 - Enable interaction with the Fridge(s)
@@ -95,19 +97,19 @@ To keep your personal data safe and secure, we have implemented administrative, 
 
 As a data subject, the GDPR provides you with certain rights concerning your personal data these rights are the following:
 
-*A) Right of access and right to obtain a copy* You have the right to freely obtain at any moment access to your personal data, as well as to be informed about the purpose of the processing by us.
+*A) Right of access and right to obtain a copy.* You have the right to freely obtain at any moment access to your personal data, as well as to be informed about the purpose of the processing by us.
 
-*B) Right to rectification, erasure or restriction* You have the choice to share your personal data with us. You always have the right to ask us to amend your personal data. You can also request the processing of your personal data to be restricted if you think that your data is inaccurate and you subsequently notified us about this. Furthermore, you acknowledge that a refusal to share data or a request to erase there data will make the delivery of several services impossible.
+*B) Right to rectification, erasure or restriction.* You have the choice to share your personal data with us. You always have the right to ask us to amend your personal data. You can also request the processing of your personal data to be restricted if you think that your data is inaccurate and you subsequently notified us about this. Furthermore, you acknowledge that a refusal to share data or a request to erase there data will make the delivery of several services impossible.
 
-*C) Right to object* You have the right to object to the processing of your personal data when you have serious and legitimate reasons to do so.
+*C) Right to object.* You have the right to object to the processing of your personal data when you have serious and legitimate reasons to do so.
 
-*D) Right to data portability* You have the right to obtain your personal data which is processed by us in a structured, commonly used format and/or to transfer this data to a data controller.
+*D) Right to data portability.* You have the right to obtain your personal data which is processed by us in a structured, commonly used format and/or to transfer this data to a data controller.
 
-*E) Right to withdraw consent* When the processing is based on prior consent you have the right to withdraw this consent.
+*E) Right to withdraw consent.* When the processing is based on prior consent you have the right to withdraw this consent.
 
-*F) Automated decisions and profiling* You have the right to request us not to be subject to a decision based solely on automated processing, including profiling, which produces legal effects concerning you or similarly significantly affects you.
+*F) Automated decisions and profiling.* You have the right to request us not to be subject to a decision based solely on automated processing, including profiling, which produces legal effects concerning you or similarly significantly affects you.
 
-*G) Right to file a complaint* You have the right to file a complaint with the Belgian Data Protection Authority:
+*G) Right to file a complaint.* You have the right to file a complaint with the Belgian Data Protection Authority:
 
 Data Protection Authority
 
