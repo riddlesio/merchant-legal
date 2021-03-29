@@ -2,40 +2,21 @@
 
 ##A propos de nous
 
-Eaz’it est une société Genevoise créée en 2020 sous l’impulsion de Melissa Cusin, Sandrine Dumont et Christian Wahl, respectivement collaborateurs et directeur de bj-coffee. L’expérience de bj-coffee permet de bénéficier d’un fort réseau et d’une connaissance très pointue du marché avec plus de 5'000 clients actifs.
+Pour chaque entreprise, il est essentiel de trouver un équilibre entre ses contraintes économiques et le bien-être de ses collaborateurs.
 
-Cette expérience a permis de constater l’évolution du workspace et voir à quel point les succès des entreprises est une adéquation complexe. Il est essentiel de trouver un équilibre entre les bien-être des salariés et les contraintes des entreprises.
+La mission d’eazit, Société Genevoise, est d’apporter des solutions innovantes pour faciliter le "Day to Day" des entreprises et de leurs employés.
 
-La pause déjeuner reste un moment essentiel de la journée des collaborateurs. Pourtant dans de nombreuses entreprises ce moment est une préoccupation:
+Notre solution de réfrigérateur intelligent, le Smart Fridge, permet d’offrir une expérience de restauration plus simple et plus conviviale.
 
-- pour les collaborateurs: ne pas trop prendre de temps et manger des produits sains et locaux
-- our les entreprises: l’impossibilité de supporter les coûts d’un restaurant mais garantir le bien-être des collaborateurs
+L’utilisateur du Smart Fridge peut savourer des produits sains, frais et locaux à tout moment de la journée : des plats, des fruits, des salades, des snacks, des boissons...
 
-Eaz’it s’impose avec sa solution de frigo connecté avec pour mission d’apporter des solutions novatrices pour faciliter le «Day to Day» des entreprises et de leurs collaborateurs.
+Pour profiter de ces succulents produits, il suffit de créer un compte sur l'application eazit et d’y associer un moyen de paiement. L’application permet ensuite d’identifier l’utilisateur et d’ouvrir le Smart Fridge. Vous pouvez vous servir, tout simplement !
 
-##Nos objectifs
+Les produits sont facturés sur le compte de l’utilisateur une fois le Smart Fridge refermé grâce à une technologie d'identification présente dans le frigo.
 
-- S’appuyer sur les nouvelles technologies comme levier
-- Être le partenaire des entreprises dans leurs engagements RSE
-- Développer des solutions durables et écologiques
-- Favoriser l’équilibre vie privée / vie professionnelle des collaborateurs
+Les données de paiement et de carte bancaire sont sécurisées et gérées par la société internationale Adyen.
 
-##Comment?
-
-Grace au frigo connecté Eaz’it.
-
-##Fonctionnement
-
-Ce frigo, à la différence des distributeurs automatiques, permet de se servie « comme à la maison » pour une expérience plus conviviale
-Avec à l’intérieure des produits sains, frais et locaux pour tous les moments de la journée : du petit-déjeuner au goûter voir du dîner.
-
-Pour profiter des produits, l’utilisateur créer un compte sur l’application eaz’it , ce qui lui permettra s’être identifier et aussi enregistrer son moyen de paiement.
-
-Les données de paiement, comme celles de votre carte bancaire, sont sécurisées et gérées par la société internationale Adyen.
-
-La facturation des produits seront facturés une fois le frigo fermé grâce à une technologie d’identification présente dans le frigo
-
-Ainsi le consommateur peut bénéficier de produit de qualité sur son lieu de travail!
+Ainsi, le consommateur peut bénéficier en toute simplicité de produits de qualité sur son lieu de travail !
 
 ###English version
 
