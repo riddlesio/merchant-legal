@@ -18,4 +18,4 @@ Website: [www.appel.nl](https://www.appel.nl)
 
 ##Legal
 
-Appèl BV, a private limited liability company, incorporated under Dutch law, with registered office at Mammoet 2, 5236 NV 's-Hertogenbosch, registered at the Dutch Chamber of Commerce under # KvK 67307124 with VAT number NL27INGB0650257367.
+Appèl BV, a private limited liability company, incorporated under Dutch law, with registered office at Mammoet 2, 5236 NV 's-Hertogenbosch, registered at the Dutch Chamber of Commerce under # KvK 67307124 with VAT number NL180851398801.

@@ -1,4 +1,4 @@
-Appèl BV, a private limited liability company, incorporated under Dutch law, with registered office at Mammoet 2, 5236 NV 's-Hertogenbosch, registered at the Dutch Chaimber of Commerce under # KvK 67307124 with VAT number NL27INGB0650257367. (“Appèl BV” or “We”) is committed to protecting and respecting your privacy. This privacy policy sets out the basis on which we process any personal data we collect from you or that you provide to us. Please read this privacy policy carefully to understand our views and practices regarding your personal data and how we will treat it.
+Appèl BV, a private limited liability company, incorporated under Dutch law, with registered office at Mammoet 2, 5236 NV 's-Hertogenbosch, registered at the Dutch Chamber of Commerce under # KvK 67307124 with VAT number NL180851398801. (“Appèl BV” or “We”) is committed to protecting and respecting your privacy. This privacy policy sets out the basis on which we process any personal data we collect from you or that you provide to us. Please read this privacy policy carefully to understand our views and practices regarding your personal data and how we will treat it.
 
 ##Who are we?
 

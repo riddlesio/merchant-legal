@@ -1,4 +1,4 @@
-IMPORTANT: Appèl BV a private limited liability, incorporated under the laws of The Netherlands, whose registered office is at Mammoet 2, 5236 NV 's-Hertogenbosch, registered at the Dutch Chaimber of Commerce under # KvK 67307124 with VAT number NL27INGB0650257367 (hereinafter referred to as: “Appel BV” or “We”) is offering you this service.
+IMPORTANT: Appèl BV a private limited liability, incorporated under the laws of The Netherlands, whose registered office is at Mammoet 2, 5236 NV 's-Hertogenbosch, registered at the Dutch Chamber of Commerce under # KvK 67307124 with VAT number NL180851398801 (hereinafter referred to as: “Appel BV” or “We”) is offering you this service.
 
 The technological solutions used in the Fridges make it possible for Appèl BV to record and process which Products you purchase from us. This makes it easier for us to stock the Fridges properly and to know its consumers’ needs. Payments occur through our App ("App"), i.e. a mobile app that you have to install on a mobile device. The underlying Terms and Conditions apply on all your interactions with the Fridges, your use of the App as well as on every transaction (or part of it) that is related to Appèl BV.
 
@@ -130,6 +130,6 @@ For more information about Appèl BV and its products, visit our website www.app
 
 ##12. Disputes and Governing Law
 
-*12.1* These Terms and Conditions shall be governed by and interpreted in accordance with the laws of Germany.
+*12.1* These Terms and Conditions shall be governed by and interpreted in accordance with the laws of The Netherlands.
 
 *12.2* If any dispute arises out of, or in connection with, your use of the Fridges and/or the App, the damaged party will, in first instance, try to resolve this dispute mutually and in an amicable way within a reasonable period of time. If, however, this does not offer a workable solution (e.g. when no action is taken on a notice of default) the dispute shall be settled by the competent Dutch court.
