@@ -1,14 +1,14 @@
-Appèl BV, a private limited liability company, incorporated under Dutch law, with registered office at Mammoet 2, 5236 NV 's-Hertogenbosch, registered at the Dutch Chamber of Commerce under # KvK 67307124 with VAT number NL180851398801. (“Appèl BV” or “We”) is committed to protecting and respecting your privacy. This privacy policy sets out the basis on which we process any personal data we collect from you or that you provide to us. Please read this privacy policy carefully to understand our views and practices regarding your personal data and how we will treat it.
+Lokaal.nl BV, a private limited liability company, incorporated under Dutch law, with registered office at Vughterstraat 208, 5211 GP 's-Hertogenbosch, registered at the Dutch Chamber of Commerce under # KvK 82468664 with VAT number NL862482628B01. (“Lokaal.nl BV” or “We”) is committed to protecting and respecting your privacy. This privacy policy sets out the basis on which we process any personal data we collect from you or that you provide to us. Please read this privacy policy carefully to understand our views and practices regarding your personal data and how we will treat it.
 
 ##Who are we?
 
-Appèl BV is a Dutch catering company, operating in Offices, Campus locations and public buildings, through counter restaurants, foodcourts and Smart Fridges. The technology used in our Smart Fridges allow us to record and process which products you purchase from us. This enables us to keep our fridges properly stocked and help us adapt to our consumers’ needs. Payments occur through our App. For more information about Appèl BV and our products, visit our website [www.appel.nl](https://www.appel.nl).
+Lokaal.nl BV is a Dutch catering company, operating in Offices and public buildings, through counter restaurants, foodcourts and Smart Fridges. The technology used in our Smart Fridges allow us to record and process which products you purchase from us. This enables us to keep our fridges properly stocked and help us adapt to our consumers’ needs. Payments occur through our App. For more information about Lokaal.nl BV and our products, visit our website www.lokaal.nl
 
 Our contact details:
 
-E-mail address: [info@appel.nl](mailto:info@appel.nl)
+E-mail address: [info@lokaal.nl](mailto:info@lokaal.nl)
 
-Appèl BV acts as the data controller in processing your personal data. That means we determine the purposes for and the means by which your personal data is processed. If you have any questions about this Privacy Notice, the data we process, or if you would like to exercise one of your data protection rights, do not hesitate to contact us.
+Lokaal.nl BV acts as the data controller in processing your personal data. That means we determine the purposes for and the means by which your personal data is processed. If you have any questions about this Privacy Notice, the data we process, or if you would like to exercise one of your data protection rights, do not hesitate to contact us.
 
 ##What kind of personal data we collect from you and for what purposes?
 
@@ -117,7 +117,7 @@ Telephone number: (+31) - (0)70 - 888 85 00
 
 Fax: (+31) - (0)70 - 888 85 01
 
-If you want to exercise one of your rights, please contact us at [info@appel.nl](mailto:info@appel.nl). To identify yourself, this e-mail must be accompanied with a copy of your ID or passport. We will get back to you within 1 month from the receipt of your request. When you use our App, you can also access and rectify some of your personal data from there.
+If you want to exercise one of your rights, please contact us at [info@lokaal.nl](mailto:info@lokaal.nl). To identify yourself, this e-mail must be accompanied by a copy of your ID or passport. We will get back to you within 1 month from the receipt of your request. When you use our App, you can also access and rectify some of your personal data from there.
 
 If there is a dispute, we prefer to resolve it mutually. If we are unable to find a solution together, you can submit a complaint to the Dutch data protection authority:
 
@@ -143,4 +143,4 @@ The services we offer might change from time to time. Laws and regulations may c
 
 This Privacy Policy is managed, interpreted and executed in accordance with Dutch law which exclusively applies to every potential dispute.
 
-The courts and tribunals of ‘s Hertogenbosch have exclusive jurisdiction to settle any dispute arising out of or in connection to the interpretation or execution of the present Privacy Policy.
+The courts and tribunals of 's-Hertogenbosch have exclusive jurisdiction to settle any dispute arising out of or in connection to the interpretation or execution of the present Privacy Policy.
