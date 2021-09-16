@@ -1,0 +1,1 @@
+Wij zijn Food&i, het nieuwe Benelux Food & Beverage concept van Facilicom. En met elkaar maken we 24/7 food with impact. Impact op onze gasten, op onze planeet en op elkaar. En we gaan verder dan de cateringmarkt. Véél verder. Wij zijn de new "tigers" on the block en creëren betekenis in elke stap van onze food chain, voor iedereen.
