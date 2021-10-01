@@ -68,7 +68,7 @@ VIA U. ALDROVANDI 7
 
 Indirizzo email del Titolare: [info@s8casa.it](mailto:info@s8casa.it)
 
-#2. POLICY COMPLETA
+##2. POLICY COMPLETA
 
 ##2.1 TITOLARE DEL TRATTAMENTO DEI DATI
 
@@ -440,7 +440,7 @@ VIA U. ALDROVANDI 7
 
 Data controller email: [info@s8casa.it](mailto:info@s8casa.it)
 
-#2. FULL POLICY
+##2. FULL POLICY
 
 ###2.1 DATA PROCESSING CONTROLLER
 
