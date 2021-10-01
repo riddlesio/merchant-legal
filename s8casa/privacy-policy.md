@@ -1,12 +1,12 @@
 ##Politica in materia di protezione dei dati personali / Privacy Policy
 
-####Italiano
+###Italiano
 
 Politica in materia di protezione dei dati personali del sito [www.s8casa.it](https://www.s8casa.it/) e della APP s8casa
 
 s8casa srl raccoglie alcuni Dati Personali dei propri utenti.
 
-#1. RIASSUNTO DELLA POLICY
+##1. RIASSUNTO DELLA POLICY
 
 ##1.1 DATI PERSONALI RACCOLTI PER LE SEGUENTI FINALITÀ ED UTILIZZANDO I SEGUENTI SERVIZI:
 
@@ -165,7 +165,7 @@ Se non diversamente specificato, questo Sito Web elabora tutti i pagamenti con c
 
 Il Sito Web s8casa.it e la APP s8casa non sono coinvolti nella raccolta e nell'elaborazione di tali informazioni: riceverà invece solo una notifica da parte del fornitore di servizi di pagamento in questione circa l'avvenuto pagamento.
 
-*ADYEN (ADYEN N.V)*
+####ADYEN (ADYEN N.V)
 
 Adyen è un servizio di pagamento fornito da Adyen Inc.
 
@@ -179,7 +179,7 @@ Questo tipo di servizi è funzionale alla gestione centralizzata dei tag o scrip
 
 L'uso di tali servizi comporta il fluire dei Dati dell'Utente attraverso gli stessi e, se del caso, la loro ritenzione.
 
-*GOOGLE TAG MANAGER (GOOGLE IRELAND LIMITED)*
+####GOOGLE TAG MANAGER (GOOGLE IRELAND LIMITED)
 
 Google Tag Manager è un servizio di gestione dei tag fornito da Google Ireland Limited.
 
@@ -197,7 +197,7 @@ Questo tipo di servizio potrebbe comunque raccogliere dati sul traffico per le p
 
 Si raccomanda di disconnettersi dai rispettivi servizi per assicurarsi che i dati elaborati su questo Sito Web non vengano ricollegati al profilo dell'Utente.
 
-*PULSANTE MI PIACE E WIDGET SOCIALI DI FACEBOOK (FACEBOOK IRELAND LTD)*
+####PULSANTE MI PIACE E WIDGET SOCIALI DI FACEBOOK (FACEBOOK IRELAND LTD)
 
 Il pulsante “Mi Piace” e i widget sociali di Facebook sono servizi di interazione con il social network Facebook, forniti da Facebook Ireland Ltd
 
@@ -205,7 +205,7 @@ Dati Personali trattati: Dati di utilizzo; Strumento di Tracciamento.
 
 Luogo del trattamento: Irlanda – Privacy Policy.
 
-*PULSANTE TWEET E WIDGET SOCIALI DI TWITTER (TWITTER, INC.)*
+####PULSANTE TWEET E WIDGET SOCIALI DI TWITTER (TWITTER, INC.)
 
 Il pulsante Tweet e i widget sociali di Twitter sono servizi di interazione con il social network Twitter, forniti da Twitter, Inc.
 
@@ -221,7 +221,7 @@ I Dati Personali trattati dipendono dalle caratteristiche e della modalità di i
 
 Vista la natura distribuita di questo sistema, è difficile determinare i luoghi in cui vengono trasferiti i contenuti, che potrebbero contenere Dati Personali dell’Utente.
 
-*CLOUDFLARE (CLOUDFLARE INC.)*
+####CLOUDFLARE (CLOUDFLARE INC.)
 
 Cloudflare è un servizio di ottimizzazione e distribuzione del traffico fornito da Cloudflare Inc.
 
@@ -235,7 +235,7 @@ Luogo del trattamento: Stati Uniti – Privacy Policy.
 
 I servizi contenuti nella presente sezione permettono al Titolare del Trattamento di monitorare e analizzare i dati di traffico e servono a tener traccia del comportamento dell’Utente.
 
-*GOOGLE ANALYTICS (GOOGLE IRELAND LIMITED)*
+####GOOGLE ANALYTICS (GOOGLE IRELAND LIMITED)
 
 Google Analytics è un servizio di analisi web fornito da Google Ireland Limited (“Google”). Google utilizza i Dati Personali raccolti allo scopo di tracciare ed esaminare l’utilizzo del Sito Web s8casa.it e della APP s8casa, compilare report e condividerli con altri servizi sviluppati da Google.
 
@@ -251,7 +251,7 @@ Questo tipo di servizi permette di visualizzare contenuti ospitati su piattaform
 
 Questo tipo di servizio potrebbe comunque raccogliere dati sul traffico web relativo alle pagine dove il servizio è installato, anche quando gli utenti non lo utilizzano.
 
-*GOOGLE FONTS (GOOGLE IRELAND LIMITED)*
+####GOOGLE FONTS (GOOGLE IRELAND LIMITED)
 
 Google Fonts è un servizio di visualizzazione di stili di carattere gestito da Google Ireland Limited che permette a questo Sito Web di integrare tali contenuti all’interno delle proprie pagine.
 
@@ -278,13 +278,13 @@ Gli Utenti possono esercitare determinati diritti con riferimento ai Dati tratta
 - ricevere i propri Dati o farli trasferire ad altro titolare. L’Utente ha diritto di ricevere i propri Dati in formato strutturato, di uso comune e leggibile da dispositivo automatico e, ove tecnicamente fattibile, di ottenerne il trasferimento senza ostacoli ad un altro titolare. Questa disposizione è applicabile quando i Dati sono trattati con strumenti automatizzati ed il trattamento è basato sul consenso dell’Utente, su un contratto di cui l’Utente è parte o su misure contrattuali ad esso connesse.
 - proporre reclamo. L’Utente può proporre un reclamo all’autorità di controllo della protezione dei dati personali competente o agire in sede giudiziale.
 
-*DETTAGLI SUL DIRITTO DI OPPOSIZIONE*
+####DETTAGLI SUL DIRITTO DI OPPOSIZIONE
 
 Quando i Dati Personali sono trattati nell’interesse pubblico, nell’esercizio di pubblici poteri di cui è investito il Titolare oppure per perseguire un interesse legittimo del Titolare, gli Utenti hanno diritto ad opporsi al trattamento per motivi connessi alla loro situazione particolare.
 
 Si fa presente agli Utenti che, ove i loro Dati fossero trattati con finalità di marketing diretto, possono opporsi al trattamento senza fornire alcuna motivazione. Per scoprire se il Titolare tratti dati con finalità di marketing diretto gli Utenti possono fare riferimento alle rispettive sezioni di questo documento.
 
-*COME ESERCITARE I DIRITTI*
+####COME ESERCITARE I DIRITTI
 
 Per esercitare i diritti dell’Utente, gli Utenti possono indirizzare una richiesta agli estremi di contatto del Titolare indicati in questo documento. Le richieste sono depositate a titolo gratuito e evase dal Titolare nel più breve tempo possibile, in ogni caso entro un mese.
 
@@ -372,13 +372,13 @@ La presente informativa privacy è redatta sulla base di molteplici ordinamenti 
 
 Ove non diversamente specificato, questa informativa privacy riguarda il Sito Web s8casa.it e la APP s8casa.
 
-####English
+###English
 
 [www.s8casa.it](https://s8casa.it) website and APP personal data protection policy.
 
 s8casa srl collects some Personal Data from its users.
 
-#1.SUMMARY OF THE POLICY
+##1.SUMMARY OF THE POLICY
 
 ##1.1 PERSONAL DATA COLLECTED FOR THE FOLLOWING PURPOSES AND USING THE FOLLOWING SERVICES:
 
@@ -537,7 +537,7 @@ Unless otherwise specified, this Website processes all payments by credit card, 
 
 The s8casa.it website and the s8casa APP are not involved in the collection and processing of this information: instead, it will only receive a notification from the payment service provider in question about the payment.
 
-*ADYEN (ADYEN N.V)*
+####ADYEN (ADYEN N.V)
 
 Adyen is a payment service provided by Adyen Inc.
 
@@ -551,7 +551,7 @@ This type of service is functional to the centralized management of the tags or 
 
 The use of these services involves the flow of User Data through them and, where appropriate, their retention.
 
-*GOOGLE TAG MANAGER (GOOGLE IRELAND LIMITED)*
+####GOOGLE TAG MANAGER (GOOGLE IRELAND LIMITED)
 
 Google Tag Manager is a tag management service provided by Google Ireland Limited.
 
@@ -569,7 +569,7 @@ This type of service may still collect traffic data for the pages where the serv
 
 It is recommended to log out of the respective services to make sure that the data processed on this Website is not connected back to the User's profile.
 
-*LIKE BUTTON AND FACEBOOK SOCIAL WIDGETS (FACEBOOK IRELAND LTD)*
+####LIKE BUTTON AND FACEBOOK SOCIAL WIDGETS (FACEBOOK IRELAND LTD)
 
 The "Like" button and Facebook social widgets are interaction services with the Facebook social network, provided by Facebook Ireland Ltd
 
@@ -577,7 +577,7 @@ Personal Data processed: Usage data; Tracking Tool.
 
 Place of processing: Ireland - Privacy Policy.
 
-*TWEET BUTTON AND TWITTER SOCIAL WIDGETS (TWITTER, INC.)*
+####TWEET BUTTON AND TWITTER SOCIAL WIDGETS (TWITTER, INC.)
 
 The Tweet button and Twitter social widgets are interaction services with the Twitter social network, provided by Twitter, Inc.
 
@@ -593,7 +593,7 @@ The Personal Data processed depend on the characteristics and methods of impleme
 
 Given the distributed nature of this system, it is difficult to determine the places where the contents are transferred, which may contain the User's Personal Data.
 
-*CLOUDFLARE (CLOUDFLARE INC.)*
+####CLOUDFLARE (CLOUDFLARE INC.)
 
 Cloudflare is a traffic optimization and distribution service provided by Cloudflare Inc.
 
@@ -607,7 +607,7 @@ Place of processing: United States - Privacy Policy.
 
 The services contained in this section allow the Data Controller to monitor and analyze traffic data and are used to keep track of User behavior.
 
-*GOOGLE ANALYTICS (GOOGLE IRELAND LIMITED)*
+####GOOGLE ANALYTICS (GOOGLE IRELAND LIMITED)
 
 Google Analytics is a web analytics service provided by Google Ireland Limited ("Google"). Google uses the Personal Data collected for the purpose of tracking and examining the use of the s8casa.it Website and the s8casa APP, compiling reports and sharing them with other services developed by Google.
 
@@ -623,7 +623,7 @@ This type of service allows you to view content hosted on external platforms dir
 
 This type of service may still collect data on web traffic relating to the pages where the service is installed, even when users do not use it.
 
-*GOOGLE FONTS (GOOGLE IRELAND LIMITED)*
+####GOOGLE FONTS (GOOGLE IRELAND LIMITED)
 
 Google Fonts is a font style visualization service managed by Google Ireland Limited that allows this Website to integrate such content within its pages.
 
@@ -650,17 +650,17 @@ Users can exercise certain rights with reference to the Data processed by the Da
 - receive their data or have them transferred to another owner. The User has the right to receive his / her Data in a structured format, commonly used and readable by an automatic device and, where technically feasible, to obtain its unhindered transfer to another owner. This provision is applicable when the Data is processed with automated tools and the processing is based on the User's consent, on a contract to which the User is a party or on contractual measures connected to it.
 - propose a complaint. The User can lodge a complaint with the competent personal data protection supervisory authority or take legal action.
 
-*DETAILS ON THE RIGHT OF OPPOSITION*
+####DETAILS ON THE RIGHT OF OPPOSITION
 
 When Personal Data are processed in the public interest, in the exercise of public authority vested in the Owner or to pursue a legitimate interest of the Owner, Users have the right to object to the processing for reasons related to their particular situation.
 
 Users are reminded that, if their Data are processed for direct marketing purposes, they can oppose the processing without providing any reasons. To find out if the Data Controller processes data for direct marketing purposes, Users can refer to the respective sections of this document.
 
-*HOW TO EXERCISE YOUR RIGHTS*
+####HOW TO EXERCISE YOUR RIGHTS
 
 To exercise the User's rights, Users can direct a request to the contact details of the Owner indicated in this document. Requests are filed free of charge and processed by the Data Controller as soon as possible, in any case within one month.
 
-*COOKIE POLICY*
+####COOKIE POLICY
 
 This Website uses Tracking Tools. To find out more, the User can consult the Cookie Policy.
 

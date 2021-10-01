@@ -1,4 +1,4 @@
-####Italiano
+###Italiano
 
 s8casa è una startup innovativa, ha l’obiettivo di rendere possibile la fruizione di prodotti alimentari di qualità in maniera più agevole e vicina alle abitudini quotidiane dei consumatori.
 
@@ -22,7 +22,7 @@ s8casa, nasce un nuovo modo intelligente di fare la spesa.
 
 Visita [www.s8casa.it](https://s8casa.it) per ulteriori informazioni sulla nostra sociètà.
 
-####English
+###English
 
 s8casa is an innovative startup, with the aim of making it possible to enjoy quality food products more easily and closer to the daily habits of consumers.
 

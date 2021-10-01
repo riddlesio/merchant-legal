@@ -1,4 +1,4 @@
-####Italiano
+###Italiano
 
 ##1. PREMESSA
 
@@ -93,7 +93,7 @@ S8casa srl si impegna a rispondere a tutte le richieste pervenute entro un massi
 
 Il contratto di vendita tra il Cliente e S8casa srl s’intende concluso in Italia e regolato dalla Legge Italiana. Per la soluzione di controversie relative all’interpretazione, esecuzione o risoluzione delle presenti Condizioni Generali o di singoli ordini di acquisto sarà competente in via esclusiva il foro di Milano.
 
-####English
+###English
 
 ##1. INTRODUCTION
 
