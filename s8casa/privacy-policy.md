@@ -1,5 +1,3 @@
-##Politica in materia di protezione dei dati personali / Privacy Policy
-
 ###Italiano
 
 Politica in materia di protezione dei dati personali del sito [www.s8casa.it](https://www.s8casa.it/) e della APP s8casa
