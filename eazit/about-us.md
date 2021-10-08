@@ -22,36 +22,18 @@ Ainsi, le consommateur peut bénéficier en toute simplicité de produits de qua
 
 ##About us
 
-Eaz'it is a Geneva-based company created in 2020 thanks to Melissa Cusin, Sandrine Dumont and Christian Wahl, respectively employees and director of bj-coffee.
+For every company, it is essential to find a balance between its economic constraints and the well-being of its employees.
 
-The experience of bj-coffee allows Eaz’it  to benefit of a strong network and an in-depth knowledge of the market with more than 5'000 active clients. This experience has allowed us to see the evolution of the workspace and to see how the success of companies is a complex match. It is essential to find a balance between the well-being of employees and the constraints of the companies.
+The mission of eazit, a Geneva-based company, is to provide innovative solutions to facilitate the "Day to Day" of companies and their employees.
 
-The lunch break remains an essential part of the employees' day. Yet in many companies this is a complicated moment:
+Our Smart Fridge, offers a simple and more user-friendly catering experience.
 
-- for the employees: not to take too much time and eat healthy and local products.
-- for companies: the impossibility of taking over the costs of a restaurant but guaranteeing the well-being of employees.
+The Smart Fridge user can enjoy healthy, fresh and local products at any time of the day : dishes, fruits, salads, snacks, drinks...
 
-Eaz'it imposes itself with its connected fridge solution with the mission to bring innovative solutions to facilitate the "Day to Day" of companies and their employees.
+To enjoy these delicious products, you just need to create an account on the eazit app and associate a payment method. The application then identifies the user and opens the Smart Fridge. You can simply help yourself!
 
-##Our goals
+Products are charged to the user's account once the Smart Fridge is closed thanks to an identification technology present in the fridge.
 
-- Rely on new technologies as a lever
-- To be the partner of companies in their CSR commitments
-- Developing sustainable and ecological solutions
-- Promote the work-life balance of employees
+Payment and credit card data are secured and managed by the international company Adyen.
 
-##How do you do it?
-
-Thanks to the Eaz'it connected fridge.
-
-##How it works
-
-This fridge, unlike vending machines, allows you to serve food "just like at home" for a more user-friendly experience.
-With healthy, fresh and local products inside for every moment of the day: from breakfast, lunch  to snacks and even dinner.
-
-To enjoy the products, the user must create an account on the Eaz'it application, which will allow him to identify himself and also register his means of payment.
-
-The payment data, like your credit card data, is secured and managed by the international company Adyen.
-
-Products will be invoiced once the fridge is closed thanks to an identification technology present in the fridge.
-This way the consumer can benefit from quality products in the workplace! 
+Then, the consumer can easily benefit from quality products at work!
