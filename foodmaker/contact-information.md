@@ -4,9 +4,7 @@ Foodmaker NV
 
 Nijverheidsstraat 50
 
-2260
-
-Westerlo, Belgium
+2260 Westerlo, Belgium
 
 ##Contact
 
@@ -20,4 +18,4 @@ Website: [www.foodmaker.be](https://foodmaker.be)
 
 Legal name: Foodmaker NV
 
-BE 0844 295819
+Company registration number: BE 0844 295819
