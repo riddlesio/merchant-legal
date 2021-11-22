@@ -1,10 +1,12 @@
 ## Address
 
-UAB DAILY LUNCH
+UAB Superbiuras
 
-P. Lukšio g. 1
+Vakarinė g. 7-1
 
-08221 Vilnius, Lithuania
+Aukštųjų Rusokų vs.
+
+LT-14248 Vilniaus r.
 
 ## Contact
 
@@ -18,8 +20,8 @@ Website: [www.dailylunch.lt](https://dailylunch.lt)
 
 ## Legal
 
-Legal name: UAB Daily Lunch
+Legal name: UAB Superbiuras
 
-Company registration code: 305348946
+Company registration code: 304245683
 
-VAT ID: LT100012838612
+VAT ID: LT100010288115
