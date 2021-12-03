@@ -1,8 +1,8 @@
+##Adresse
+
 Souvy GmbH. 
 
-c/o Silas Bohren
-
-Depotstrasse 18
+c/o Depotstrasse 18
 
 3012 Bern
 
