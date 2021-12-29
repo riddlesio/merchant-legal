@@ -1,10 +1,12 @@
 ## Address
 
-OSAMA, a brand of UAB DAILY LUNCH
+UAB Superbiuras
 
-P. Lukšio g. 1
+Vakarinė g. 7-1
 
-08221 Vilnius, Lithuania
+Aukštųjų Rusokų vs.
+
+LT-14248 Vilniaus r.
 
 ## Contact
 
@@ -16,8 +18,8 @@ Website: [www.osama.lt](https://osama.lt)
 
 ## Legal
 
-Legal name: UAB Daily Lunch
+Legal name: Superbiuras, UAB
 
-Company registration code: 305348946
+Company registration code: 304245683
 
-VAT ID: LT100012838612
+VAT ID: LT100010288115
