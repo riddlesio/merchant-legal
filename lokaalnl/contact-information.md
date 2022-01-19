@@ -2,9 +2,9 @@
 
 Lokaal.nl B.V.
 
-Vughterstraat 208
+Postbus 5025
 
-5211 GP 's-Hertogenbosch
+5201 GA ’s-Hertogenbosch
 
 The Netherlands
 
