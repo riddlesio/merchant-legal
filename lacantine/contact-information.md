@@ -1,7 +1,5 @@
-SF Company SRL
-175 rue Bara
-1070 Bruxelles
-Belgique
-
-+32 2 560 21 98
-customercare@smartfridge.be
+REGISTER NAME : LA CANTINE CENTRALE
+ADDRESS : 479 CHAUSSEE DE TUBIZE - 1420 BRAINE L'ALLEUD
+MAIL : lacantinebylacentrale@gmail.com
+PHONE : +32/486.40.02.04
+VAT NUMBER : BE0765336730
